@@ -3,70 +3,63 @@
 	
 		
 		<url>
-			<loc>/blog/firstpost/</loc>
+			<loc>/pawn002-blog/blog/firstpost/</loc>
 			<lastmod>2018-05-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/blog/secondpost/</loc>
+			<loc>/pawn002-blog/blog/secondpost/</loc>
 			<lastmod>2018-07-04</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/blog/thirdpost/</loc>
+			<loc>/pawn002-blog/blog/thirdpost/</loc>
 			<lastmod>2018-08-24</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/blog/fourthpost/</loc>
+			<loc>/pawn002-blog/blog/fourthpost/</loc>
 			<lastmod>2018-09-30</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/blog/fifthpost/</loc>
-			<lastmod>2023-01-23</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>/about/</loc>
+			<loc>/pawn002-blog/about/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/blog/</loc>
+			<loc>/pawn002-blog/blog/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/</loc>
+			<loc>/pawn002-blog/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/tags/</loc>
+			<loc>/pawn002-blog/tags/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/feed/feed.xml</loc>
+			<loc>/pawn002-blog/feed/feed.xml</loc>
 			<lastmod>2025-10-14</lastmod>
 		</url>
 	
