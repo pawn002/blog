@@ -5,9 +5,9 @@
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
-		"copy-docs": "del /Q docs\\* && rmdir /S /Q docs && mkdir docs && xcopy _site\\* docs\\ /E /H /C /I",
+		"push-to-test": "del /Q docs\\* && rmdir /S /Q docs && mkdir docs && xcopy _site\\* docs\\ /E /H /C /I && git add . && git commit -m \"chore: create new test build\" && git push",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
-		"build-ghpages": "npx @11ty/eleventy --pathprefix=/blog/ && npm run copy-docs",
+		"build-ghpages": "npx @11ty/eleventy --pathprefix=/blog/ && npm run push-to-test",
 		"publish-docs": "node publish.js",
 		"start": "npx @11ty/eleventy --serve --quiet",
 		"start-ghpages": "npx @11ty/eleventy --pathprefix=/blog/ --serve --quiet",
