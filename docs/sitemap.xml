@@ -3,42 +3,42 @@
 	
 		
 		<url>
-			<loc>/pawn002-blog/about/</loc>
+			<loc>/blog/about/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/pawn002-blog/blog/</loc>
+			<loc>/blog/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/pawn002-blog/</loc>
+			<loc>/blog/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/pawn002-blog/tags/</loc>
+			<loc>/blog/tags/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/pawn002-blog/blog/firstpost/</loc>
+			<loc>/blog/blog/firstpost/</loc>
 			<lastmod>2025-10-14</lastmod>
 		</url>
 	
 	
 		
 		<url>
-			<loc>/pawn002-blog/feed/feed.xml</loc>
+			<loc>/blog/feed/feed.xml</loc>
 			<lastmod>2025-10-14</lastmod>
 		</url>
 	
