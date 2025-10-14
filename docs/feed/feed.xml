@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
 <?xml-stylesheet href="pretty-atom-feed.xsl" type="text/xsl"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-  <title>Blog Title</title>
-  <subtitle>This is a longer description about your blog.</subtitle>
-  <link href="https://example.com/blog/feed/feed.xml" rel="self" />
-  <link href="https://example.com/blog/" />
+  <title>pawn002&#39;s Blog</title>
+  <subtitle>Design integration, accessibility advocacy, and ethical AI strategy</subtitle>
+  <link href="https://pawn002.github.io/blog/feed/feed.xml" rel="self" />
+  <link href="https://pawn002.github.io/blog/blog-public/" />
   <updated>2025-10-14T00:00:00Z</updated>
-  <id>https://example.com/blog/</id>
+  <id>https://pawn002.github.io/blog/blog-public/</id>
   <author>
-    <name>Your Name</name>
+    <name>John Rioflorido</name>
   </author>
   <entry>
     <title>Good Day to All!</title>
-    <link href="https://example.com/blog/blog/firstpost/" />
+    <link href="https://pawn002.github.io/blog/blog/firstpost/" />
     <updated>2025-10-14T00:00:00Z</updated>
-    <id>https://example.com/blog/blog/firstpost/</id>
+    <id>https://pawn002.github.io/blog/blog/firstpost/</id>
     <content type="html">&lt;p&gt;Welcome the blog!&lt;/p&gt;
 &lt;p&gt;This site is very much under construction, so this post is a shortie.&lt;/p&gt;
 &lt;p&gt;There is a lot of upheaval across diverse domains right now. I find spaces like this present a rich opportunity space.&lt;/p&gt;
