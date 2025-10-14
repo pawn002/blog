@@ -5,6 +5,7 @@
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
+		"copy-docs": "del /Q docs\\* && rmdir /S /Q docs && mkdir docs && xcopy _site\\* docs\\ /E /H /C /I",
 		"build-nocolor": "cross-env NODE_DISABLE_COLORS=1 npx @11ty/eleventy",
 		"build-ghpages": "npx @11ty/eleventy --pathprefix=/pawn002-blog/",
 		"start": "npx @11ty/eleventy --serve --quiet",
