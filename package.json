@@ -1,7 +1,7 @@
 {
 	"name": "pawn002-blog",
-	"version": "9.0.0",
-	"description": "A starter repository for a blog web site using the Eleventy site generator.",
+	"version": "0.0.0",
+	"description": "pawn002 Blog",
 	"type": "module",
 	"scripts": {
 		"build": "npx @11ty/eleventy",
@@ -15,25 +15,21 @@
 	},
 	"repository": {
 		"type": "git",
-		"url": "git://github.com/11ty/pawn002-blog.git"
+		"url": "https://github.com/pawn002/blog"
 	},
 	"author": {
-		"name": "Zach Leatherman",
-		"email": "zachleatherman@gmail.com",
-		"url": "https://zachleat.com/"
+		"name": "John Rioflorido",
+		"email": "john.rioflorido@outlook.com",
+		"url": "https://github.com/pawn002"
 	},
 	"license": "MIT",
 	"engines": {
 		"node": ">=18"
 	},
-	"funding": {
-		"type": "opencollective",
-		"url": "https://opencollective.com/11ty"
-	},
 	"bugs": {
-		"url": "https://github.com/11ty/pawn002-blog/issues"
+		"url": "https://github.com/pawn002/blog-public/issues"
 	},
-	"homepage": "https://github.com/11ty/pawn002-blog#readme",
+	"homepage": "https://github.com/pawn002/blog-public",
 	"devDependencies": {
 		"@11ty/eleventy": "^3.1.2",
 		"@11ty/eleventy-img": "^6.0.4",
