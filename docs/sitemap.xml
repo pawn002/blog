@@ -3,34 +3,6 @@
 	
 		
 		<url>
-			<loc>/pawn002-blog/blog/firstpost/</loc>
-			<lastmod>2018-05-01</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>/pawn002-blog/blog/secondpost/</loc>
-			<lastmod>2018-07-04</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>/pawn002-blog/blog/thirdpost/</loc>
-			<lastmod>2018-08-24</lastmod>
-		</url>
-	
-	
-		
-		<url>
-			<loc>/pawn002-blog/blog/fourthpost/</loc>
-			<lastmod>2018-09-30</lastmod>
-		</url>
-	
-	
-		
-		<url>
 			<loc>/pawn002-blog/about/</loc>
 			<lastmod>2025-10-01</lastmod>
 		</url>
@@ -54,6 +26,13 @@
 		<url>
 			<loc>/pawn002-blog/tags/</loc>
 			<lastmod>2025-10-01</lastmod>
+		</url>
+	
+	
+		
+		<url>
+			<loc>/pawn002-blog/blog/firstpost/</loc>
+			<lastmod>2025-10-14</lastmod>
 		</url>
 	
 	
