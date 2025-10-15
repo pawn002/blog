@@ -16,3 +16,9 @@ My most formative experiences have taught me that coherence between self and wor
 Whether I’m scaling accessibility efforts across an organization or contributing to open-source projects that advance ethical AI, I bring my full self to the table: principled, accountable, and relentlessly focused on impact.
 
 If you’re building toward inclusive outcomes, ethical defaults, or systems that respect human dignity—I’d love to be part of that conversation.
+
+## Contact Information
+
+* Email: <john.rioflorido@outlook.com>
+* GitHub: <https://github.com/pawn002>
+* LinkedIn: <https://www.linkedin.com/in/johnrioflorido/>
