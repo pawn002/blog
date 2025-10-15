@@ -37,6 +37,6 @@ We may update this Privacy Policy from time to time. Any changes will be posted 
 
 If you have any questions or concerns about this Privacy Policy or your feedback, please feel free to [contact us](/about/#contact-information).
 
-## Agreeing to Terms
+---
 
 By using this blog, you acknowledge that you have read and understood this Privacy Policy and agree to its terms. Thank you for being a part of our community!
