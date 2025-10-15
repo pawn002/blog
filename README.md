@@ -6,6 +6,7 @@
 - [pawn002 Blog, test](https://pawn002.github.io/blog/)
 - [pawn002 GitHub](https://github.com/pawn002)
 - [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog)
+- [Table Generator](https://www.tablesgenerator.com/markdown_tables#)
 
 ## Initial Setup
 
