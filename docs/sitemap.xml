@@ -38,8 +38,36 @@
 	
 		
 		<url>
+			<loc>/blog/blog/legal_disclaimer/</loc>
+			<lastmod>2025-10-15</lastmod>
+		</url>
+	
+	
+		
+		<url>
+			<loc>/blog/blog/post_policy/</loc>
+			<lastmod>2025-10-15</lastmod>
+		</url>
+	
+	
+		
+		<url>
+			<loc>/blog/blog/privacy_policy/</loc>
+			<lastmod>2025-10-15</lastmod>
+		</url>
+	
+	
+		
+		<url>
 			<loc>/blog/feed/feed.xml</loc>
-			<lastmod>2025-10-14</lastmod>
+			<lastmod>2025-10-15</lastmod>
+		</url>
+	
+	
+		
+		<url>
+			<loc>/blog/blog/accessibility_policy/</loc>
+			<lastmod>2025-10-16</lastmod>
 		</url>
 	
 </urlset>

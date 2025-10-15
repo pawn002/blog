@@ -3,8 +3,8 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<title>pawn002 Blog</title>
-		<meta name="description" content="Cross disciplinary writing bringing together technology, art, and life.">
+		<title>Blog Legal Disclaimer</title>
+		<meta name="description" content="Pawn002 blog legal disclaimer">
 		<link rel="alternate" href="/blog/feed/feed.xml" type="application/atom+xml" title="pawn002 Blog">
 		
 		
@@ -310,6 +310,174 @@ header {
 .post-metadata time {
 	margin-right: 1em;
 }
+/**
+ * okaidia theme for JavaScript, CSS and HTML
+ * Loosely based on Monokai textmate theme by http://www.monokai.nl/
+ * @author ocodia
+ */
+
+code[class*="language-"],
+pre[class*="language-"] {
+	color: #f8f8f2;
+	background: none;
+	text-shadow: 0 1px rgba(0, 0, 0, 0.3);
+	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
+	font-size: 1em;
+	text-align: left;
+	white-space: pre;
+	word-spacing: normal;
+	word-break: normal;
+	word-wrap: normal;
+	line-height: 1.5;
+
+	-moz-tab-size: 4;
+	-o-tab-size: 4;
+	tab-size: 4;
+
+	-webkit-hyphens: none;
+	-moz-hyphens: none;
+	-ms-hyphens: none;
+	hyphens: none;
+}
+
+/* Code blocks */
+pre[class*="language-"] {
+	padding: 1em;
+	margin: .5em 0;
+	overflow: auto;
+	border-radius: 0.3em;
+}
+
+:not(pre) > code[class*="language-"],
+pre[class*="language-"] {
+	background: #272822;
+}
+
+/* Inline code */
+:not(pre) > code[class*="language-"] {
+	padding: .1em;
+	border-radius: .3em;
+	white-space: normal;
+}
+
+.token.comment,
+.token.prolog,
+.token.doctype,
+.token.cdata {
+	color: #8292a2;
+}
+
+.token.punctuation {
+	color: #f8f8f2;
+}
+
+.token.namespace {
+	opacity: .7;
+}
+
+.token.property,
+.token.tag,
+.token.constant,
+.token.symbol,
+.token.deleted {
+	color: #f92672;
+}
+
+.token.boolean,
+.token.number {
+	color: #ae81ff;
+}
+
+.token.selector,
+.token.attr-name,
+.token.string,
+.token.char,
+.token.builtin,
+.token.inserted {
+	color: #a6e22e;
+}
+
+.token.operator,
+.token.entity,
+.token.url,
+.language-css .token.string,
+.style .token.string,
+.token.variable {
+	color: #f8f8f2;
+}
+
+.token.atrule,
+.token.attr-value,
+.token.function,
+.token.class-name {
+	color: #e6db74;
+}
+
+.token.keyword {
+	color: #66d9ef;
+}
+
+.token.regex,
+.token.important {
+	color: #fd971f;
+}
+
+.token.important,
+.token.bold {
+	font-weight: bold;
+}
+.token.italic {
+	font-style: italic;
+}
+
+.token.entity {
+	cursor: help;
+}
+/*
+ * New diff- syntax
+ */
+
+pre[class*="language-diff-"] {
+	--eleventy-code-padding: 1.25em;
+	padding-left: var(--eleventy-code-padding);
+	padding-right: var(--eleventy-code-padding);
+}
+.token.deleted {
+	background-color: hsl(0, 51%, 37%);
+	color: inherit;
+}
+.token.inserted {
+	background-color: hsl(126, 31%, 39%);
+	color: inherit;
+}
+
+/* Make the + and - characters unselectable for copy/paste */
+.token.prefix.unchanged,
+.token.prefix.inserted,
+.token.prefix.deleted {
+	-webkit-user-select: none;
+	user-select: none;
+	display: inline-flex;
+	align-items: center;
+	justify-content: center;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+.token.prefix.inserted,
+.token.prefix.deleted {
+	width: var(--eleventy-code-padding);
+	background-color: rgba(0, 0, 0, 0.2);
+}
+
+/* Optional: full-width background color */
+.token.inserted:not(.prefix),
+.token.deleted:not(.prefix) {
+	display: block;
+	margin-left: calc(-1 * var(--eleventy-code-padding));
+	margin-right: calc(-1 * var(--eleventy-code-padding));
+	text-decoration: none; /* override del, ins, mark defaults */
+	color: inherit; /* override del, ins, mark defaults */
+}
 		</style>
 		
 	</head>
@@ -328,7 +496,7 @@ header {
 							<a href="/blog/">Archive</a>
 						</li>
 						<li class="nav-item">
-							<a href="/blog/about/" aria-current="page">About</a>
+							<a href="/blog/about/">About</a>
 						</li>
 						<li class="nav-item">
 							<a href="/blog/feed/feed.xml">Feed</a>
@@ -340,20 +508,25 @@ header {
 		<main id="main">
 			<heading-anchors>
 				
-<h1 id="about-me">About Me</h1>
-<p>I’m John Rioflorido.—a design integrator, accessibility advocate, and ethical AI strategist who lives at the intersection of systems thinking and moral clarity.
-My work is driven by a simple but radical belief: people with disabilities are first-class citizens, and technology should reflect that truth. I build tools, frameworks, and experiences that translate abstract principles—like fairness, transparency, and inclusion—into usable systems that serve real people.</p>
-<p>I’ve spent my career navigating the terrain between design and development, cartography and accessibility, research and application. That breadth allows me to surface blind spots others miss, challenge vague reasoning, and propose solutions that are both principled and pragmatic. I’m known for disruptive clarity, but I lead with openness—I’ll always listen, and I’ll always give you the way to change my mind.
-My most formative experiences have taught me that coherence between self and work isn’t just possible—it’s powerful.</p>
-<p>Whether I’m scaling accessibility efforts across an organization or contributing to open-source projects that advance ethical AI, I bring my full self to the table: principled, accountable, and relentlessly focused on impact.</p>
-<p>If you’re building toward inclusive outcomes, ethical defaults, or systems that respect human dignity—I’d love to be part of that conversation.</p>
-<h2 id="contact-information">Contact Information</h2>
-<ul>
-<li>Email: <a href="mailto:john.rioflorido@outlook.com">john.rioflorido@outlook.com</a></li>
-<li>GitHub: <a href="https://github.com/pawn002">https://github.com/pawn002</a></li>
-<li>LinkedIn: <a href="https://www.linkedin.com/in/johnrioflorido/">https://www.linkedin.com/in/johnrioflorido/</a></li>
+
+
+<h1 id="blog-legal-disclaimer">Blog Legal Disclaimer</h1>
+
+<ul class="post-metadata">
+	<li><time datetime="2025-10-15">15 October 2025</time></li>
+	<li><a href="/blog/tags/moral-leadership/" class="post-tag">Moral-Leadership</a>, </li>
+	<li><a href="/blog/tags/policy-analysis/" class="post-tag"> Policy-Analysis</a>, </li>
+	<li><a href="/blog/tags/principal-level/" class="post-tag"> Principal-Level</a>, </li>
+	<li><a href="/blog/tags/ecosystem-design/" class="post-tag"> Ecosystem-Design</a></li>
 </ul>
 
+<p>The content provided on this blog is for informational purposes only and does not constitute professional advice. While every effort is made to ensure the accuracy and reliability of the information presented, the author makes no warranties regarding its completeness or suitability for any particular purpose. Readers are encouraged to seek professional guidance for specific issues or decisions.</p>
+<p>Any opinions expressed in this blog are those of the author and do not necessarily reflect the views of affiliated organizations or institutions. The author is not responsible for any loss or damage arising from reliance on the information contained herein.</p>
+<p>Additionally, comments and discussions generated on this blog may contain views or opinions from third parties, which do not necessarily align with the author's perspectives.</p>
+<p>By reading this blog, you acknowledge and accept these terms.</p>
+
+<ul class="links-nextprev"><li class="links-nextprev-prev">← Previous<br> <a href="/blog/blog/firstpost/">Good Day to All!</a></li><li class="links-nextprev-next">Next →<br><a href="/blog/blog/post_policy/">Blog Post Policy</a></li>
+</ul>
 
 			</heading-anchors>
 		</main>
@@ -378,7 +551,7 @@ My most formative experiences have taught me that coherence between self and wor
 			</ul>
 		</footer>
 
-		<!-- This page `/about/` was built on 2025-10-15T19:31:00.386Z -->
+		<!-- This page `/blog/legal_disclaimer/` was built on 2025-10-15T19:31:00.386Z -->
 		<script type="module" src="/blog/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>
