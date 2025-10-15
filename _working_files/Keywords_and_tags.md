@@ -67,6 +67,7 @@
 
 ### All
 
+* Portfolio
 * Ethical-AI
 * Inclusive-Design
 * AI-Governance
@@ -82,3 +83,4 @@
 * Research-Fellow
 * Unflinching-Accountability (Or shorten to Accountability)
 * Principal-Level (Indicates seniority and readiness for high-stakes problems)
+* Firsts
