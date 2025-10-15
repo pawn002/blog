@@ -54,3 +54,31 @@
 | Research & Scholarship | Research Fellow (Ethics/AI), Applied Philosophy Researcher, Postdoctoral Scholar (Tech Policy) | These directly signal your intellectual authority, philosophical rigor, and ability to operate in a deep research setting
 | Policy & Governance | Technology Policy Analyst, Digital Governance Advisor, Ethics Policy Strategist | Highlights the systemic, high-accountability work of translating research into real-world rules and standards
 | Integrator & Systems | Interdisciplinary Program Director, Lab/Center Affiliate, Systems Design Theorist | Emphasizes your role as a systems-minded integrator who bridges disciplines (design, tech, ethics, research) within the institution
+
+## Tags
+
+### Tiers
+
+| Tier | Tag Focus | Example Tags | Use Case
+|---|---|---|---
+| Tier 1 | Core Brand Identity | Ethical-AI, Inclusive-Design, Design-Strategy, Systems-Integration, Moral-Leadership, Portfolio | Required on all portfolio posts. Defines your unique value proposition.
+| Tier 2 | Technical & Strategic Role | AI-Governance, WCAG-Compliance, Foresight-Consulting, Product-Architecture, Policy-Analysis, Principal-Level | Signals specific expertise and seniority to recruiters/sourcers. Use 2-3 per post.
+| Tier 3 | Project Artifact / Context | Bias-Mitigation, VPAT-Documentation, Interdisciplinary-Research, B-Corp-Certification, Ecosystem-Design | Details the specific deliverable or context of the project. Use as needed.
+
+### All
+
+* Ethical-AI
+* Inclusive-Design
+* AI-Governance
+* Responsible-AI
+* WCAG-Compliance
+* Systems-Integration
+* Product-Strategy
+* Policy-Analysis
+* Design-Architecture
+* Bias-Mitigation
+* Strategic-Foresight
+* Mission-Alignment
+* Research-Fellow
+* Unflinching-Accountability (Or shorten to Accountability)
+* Principal-Level (Indicates seniority and readiness for high-stakes problems)
