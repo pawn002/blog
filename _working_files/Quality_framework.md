@@ -28,10 +28,8 @@
 2. Create A Title
     * Ensure keywords relevant to audience are used.
 3. Identify and add relevant tags
-4. Add legal disclaimer:
-    > Content is for informational purposes only. For more details checkout the [site's Legal Disclaimer]().
-5. Review for Proper Attribution and Permissions for Third-Party Content (See section,  "Checklist for Proper Attribution and Permissions for Third-Party Content" ).
-6. Refine with all post materials assembled—STRONG **No Placeholders!**
+4. Review for Proper Attribution and Permissions for Third-Party Content (See section,  "Checklist for Proper Attribution and Permissions for Third-Party Content" ).
+5. Refine with all post materials assembled—STRONG **No Placeholders!**
 
 ## Prior to Publish
 
