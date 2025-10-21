@@ -36,7 +36,9 @@
 1. Have a peer review it.
 2. Double check key words and tags.
 3. Identify and mitigate risks caused by publishing post.
-4. Gain approvals if necessary.
+4. Revise site disclaimers if necessary and add links referencing them.
+5. Gain approvals if necessary.
+    - Needed if mentioning anything from work.
 
 ---
 
