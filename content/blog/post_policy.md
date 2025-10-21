@@ -5,7 +5,7 @@ date: 2025-10-15
 tags: Moral-Leadership, Policy-Analysis, Principal-Level, Ecosystem-Design
 ---
 
-Updated: 21 October 2025
+_Updated: 21 October 2025_
 
 In launching this blog-portfolio hybrid, I aim to create a space where thoughtful discourse and practical insights on corporate communications can flourish. The ethical stance that guides this platform, rooted in pragmatic consequentialism, informs how I curate, update, and present content. Below is the revised policy that reflects this ethical framework alongside the latest guidance:
 
