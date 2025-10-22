@@ -27,34 +27,34 @@ I am a pragmatic consequentialist who prioritizes outcomes while preserving inte
 
 ### Core Commitments
 
-• Outcome orientation: Consequences determine moral weight.
-• Practical agreement-based approach: I rely on agreed frameworks with peers as defaults for coordination.
-• Relational adjustment: I prefer to renegotiate or partner with affected parties when deviating from promises or rules.
-• Agency respect: I give stakeholders the power to accept or reject policy choices that affect them.
-• Moral pluralism: I accept that personal morality may diverge from collective ethics and that both have roles.
+- Outcome orientation: Consequences determine moral weight.
+- Practical agreement-based approach: I rely on agreed frameworks with peers as defaults for coordination.
+- Relational adjustment: I prefer to renegotiate or partner with affected parties when deviating from promises or rules.
+- Agency respect: I give stakeholders the power to accept or reject policy choices that affect them.
+- Moral pluralism: I accept that personal morality may diverge from collective ethics and that both have roles.
 
 ## Practical Strengths
 
 My ethical stance:
 
-• Maximizes responsiveness to real harms and benefits.
-• Encourages transparent negotiation with stakeholders rather than stealthy rule-breaking.
-• Reduces rigid absolutism, enabling flexible solutions across complex, contested cases.
-• Centers consent and agency when implementing consequential trade-offs.
+- Maximizes responsiveness to real harms and benefits.
+- Encourages transparent negotiation with stakeholders rather than stealthy rule-breaking.
+- Reduces rigid absolutism, enabling flexible solutions across complex, contested cases.
+- Centers consent and agency when implementing consequential trade-offs.
 
 ## Key Risks and Vulnerabilities
 
-• Potential for selective exception-making where personal priorities justify disproportionate deviations.
-• Reliance on partner consent can be coercive if power imbalances exist or choices are constrained.
-• Difficulty aggregating qualitative goods may produce inconsistency across similar cases.
-• Erosion of Institutional trust if negotiated exceptions become routine rather than exceptional.
+- Potential for selective exception-making where personal priorities justify disproportionate deviations.
+- Reliance on partner consent can be coercive if power imbalances exist or choices are constrained.
+- Difficulty aggregating qualitative goods may produce inconsistency across similar cases.
+- Erosion of Institutional trust if negotiated exceptions become routine rather than exceptional.
 
 ## Norms and Safeguards That Align With My Ethical Stance
 
-• Implement clear, participatory procedures for renegotiating obligations with affected parties.
-• Require transparency and documentation when promises or rules are modified for consequential reasons.
-• Build independent review or arbitration for cases where power imbalances could distort consent.
-• Use iterative, evidence-based evaluation to learn how qualitative outcomes actually track with decisions.
+- Implement clear, participatory procedures for renegotiating obligations with affected parties.
+- Require transparency and documentation when promises or rules are modified for consequential reasons.
+- Build independent review or arbitration for cases where power imbalances could distort consent.
+- Use iterative, evidence-based evaluation to learn how qualitative outcomes actually track with decisions.
 
 ## Wrapping Up
 
@@ -62,20 +62,20 @@ My approach to ethical systems design is not a fixed destination but an ongoing 
 
 The measure of an ethical framework is not its theoretical perfection, but its capacity to:
 
-• Respond meaningfully to emerging challenges
-• Preserve human agency and dignity
-• Create sustainable and just outcomes across diverse contexts
-• Remain open to critique and refinement
+- Respond meaningfully to emerging challenges
+- Preserve human agency and dignity
+- Create sustainable and just outcomes across diverse contexts
+- Remain open to critique and refinement
 
 As technological and social landscapes rapidly transform, ethical systems design must embrace intellectual modesty as its most powerful tool. This means cultivating:
 
-• Persistent curiosity about unintended consequences
-• Genuine openness to perspectives beyond our immediate understanding
-• Systematic mechanisms for ongoing evaluation and course correction
+- Persistent curiosity about unintended consequences
+- Genuine openness to perspectives beyond our immediate understanding
+- Systematic mechanisms for ongoing evaluation and course correction
 
 Ultimately, my ethical stance is less about achieving moral absolutism and more about creating adaptive, resilient decision infrastructures that can navigate complexity with integrity, empathy, and pragmatic wisdom.
 
 ## Future Updates
 
-Resource link to Ethical Systems Design
-Resource link to Using AI to Interrogate and Establish a Personal Ethical Stance
+- Resource link to Ethical Systems Design
+- Resource link to Using AI to Interrogate and Establish a Personal Ethical Stance
