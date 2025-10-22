@@ -1,6 +1,6 @@
 ---
 title: My Ethical Stance as an Ethical Systems Designer
-description: Pawn002 blog accessibility policy
+description: Personal ethical stance.
 date: 2025-10-22
 tags:
 ---
