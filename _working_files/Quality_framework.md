@@ -18,7 +18,7 @@
     * Gains: success stories that show what is possible.
 4. STRONG **Just Write!**
 
-## After First Fraft
+## After First Draft
 
 1. Create an Executive Summary.
     * 2-3 sentence paragraph at the top of the post
