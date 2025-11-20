@@ -11,7 +11,7 @@ I built the [Whisper Transcription App](https://github.com/pawn002/whisper-elect
 
 ## The Privacy Paradox
 
-<img src="/img/whisper_transcription_app.png" alt="Whisper Transcription App interface showing the main transcription screen with audio file upload functionality">
+<img src="img/whisper_transcription_app.png" alt="Whisper Transcription App interface showing the main transcription screen with audio file upload functionality">
 
 I've been navigating an uncomfortable tension lately: wanting the convenience of AI-powered transcription while being deeply uncomfortable shipping sensitive conversations to cloud servers I don't control. Privacy is a big deal, especially with privacy concerns pertaining to the cloud and data being uploaded to it.
 
