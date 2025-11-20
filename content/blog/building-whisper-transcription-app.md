@@ -17,6 +17,8 @@ I've been navigating an uncomfortable tension lately: wanting the convenience of
 
 This tension led me to build something I'm calling the [Whisper Transcription App](https://github.com/pawn002/whisper-electron-app)—a standalone offline transcription tool that makes OpenAI's powerful Whisper.cpp accessible to non-technical users. The ironic twist? I built it using responsible AI practices to preserve our privacy from AI.
 
+<img src="/img/whisper_transcription_app.png" alt="Whisper Transcription App interface" eleventy:ignore>
+
 Even better: I used the app to transcribe the interview that became the basis for this post. That delightfully meta moment underscored just how functional this MVP already is.
 
 ## Recognizing the Real Problem
