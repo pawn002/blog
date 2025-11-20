@@ -2,14 +2,14 @@
 title: Building a Privacy-First Transcription Tool with Claude Code
 description: How I used AI to build an offline transcription app that protects user privacy—and what it reveals about the democratization of software development.
 date: 2025-11-19
-tags: AI, Accessibility, Privacy, Open-Source, Claude-Code, Whisper, Product-Development
+tags: Portfolio, Ethical-AI, Inclusive-Design, Systems-Integration, Responsible-AI, WCAG-Compliance, Product-Architecture, Policy-Analysis, Accountability, Principal-Level
 ---
 
 ## The Privacy Paradox
 
 I've been navigating an uncomfortable tension lately: wanting the convenience of AI-powered transcription while being deeply uncomfortable shipping sensitive conversations to cloud servers I don't control. Privacy is a big deal, especially with privacy concerns pertaining to the cloud and data being uploaded to it.
 
-This tension led me to build something I'm calling the Whisper Transcription App—a standalone offline transcription tool that makes OpenAI's powerful Whisper.cpp accessible to non-technical users. The ironic twist? I built it using AI to preserve our privacy from AI.
+This tension led me to build something I'm calling the Whisper Transcription App—a standalone offline transcription tool that makes OpenAI's powerful Whisper.cpp accessible to non-technical users. The ironic twist? I built it using responsible AI practices to preserve our privacy from AI.
 
 Even better: I used the app to transcribe the interview that became the basis for this post. That delightfully meta moment underscored just how functional this MVP already is.
 
@@ -25,7 +25,7 @@ This is exactly the kind of blind spot my career has trained me to surface. The 
 
 The technical challenges were significant. Whisper.cpp has its quirks—it requires 16-bit wave files, a detail that can derail non-technical users. My app automates this conversion process using ffmpeg, accepting any audio file type and handling the technical heavy lifting invisibly.
 
-Built on Angular Material for now (though I'm open to exploring other UI libraries), the interface embraces established patterns that users already understand. As an accessibility expert, I paid special attention to keyboard navigation (WCAG 2.1.1 Keyboard) and screen reader compatibility (WCAG 4.1.2 Name, Role, Value), even going beyond Angular Material's solid baseline to remediate contrast issues for users with low vision (WCAG 1.4.3 Contrast Minimum, 1.4.6 Contrast Enhanced).
+Built on Angular Material for now (though I'm open to exploring other UI libraries), the interface embraces established patterns that users already understand. As an accessibility consultant, I paid special attention to keyboard navigation (WCAG 2.1.1 Keyboard) and screen reader compatibility (WCAG 4.1.2 Name, Role, Value), even going beyond Angular Material's solid baseline to remediate contrast issues for users with low vision (WCAG 1.4.3 Contrast Minimum, 1.4.6 Contrast Enhanced).
 
 Here's what makes this story worth telling: I'm primarily an accessibility expert with frontend and a little bit of backend work experience. I lacked the Electron and C++ knowledge typically required for such a project.
 
@@ -33,7 +33,7 @@ Enter Claude Code.
 
 ## The Democratization of Development
 
-We live in the age of AI, and because of this, we have powerful tools like Claude Code that enable me to basically one-shot these apps. But let me be clear—this wasn't a single prompt miracle. Instead, I leveraged my expertise in product management, design, UX/UI, and accessibility to guide the AI through iterative development, fast-tracking past potential issues I spotted during the build process.
+We live in the age of AI, and because of this, we have powerful tools like Claude Code that enable me to basically one-shot these apps. But let me be clear—this wasn't a single prompt miracle. Instead, I leveraged my expertise in product strategy, design, UX/UI, and accessibility to guide the AI through iterative development, fast-tracking past potential issues I spotted during the build process.
 
 This represents something I've been watching unfold across the industry: technical barriers that once required years of specialized training can now be overcome through intelligent collaboration between domain experts and AI assistants. I became a software architect not by learning C++, but by knowing what users need and how to guide an AI to build it.
 
@@ -51,7 +51,7 @@ The app runs on Linux, Mac, and Windows—true cross-platform availability. Gett
 
 The current release is admittedly an MVP, but the roadmap reveals ambitious thinking about privacy-preserving AI infrastructure. Real-time transcription and speaker diarization are on the horizon, but the most intriguing vision involves Anthropic's Model Context Protocol (MCP).
 
-By deliberately architecting the app with separate backend and frontend components, I'm positioning it to become a privacy-preserving transcription layer that could integrate with various AI chat services. Imagine Claude or ChatGPT gaining transcription capabilities without your audio ever leaving your machine—that's the future I'm building here. For technical details on how this architecture enables these capabilities, see the [architecture documentation](https://github.com/pawn002/whisper-electron-app/blob/main/docs/architecture.md).
+By deliberately architecting the app with separate backend and frontend components, I'm positioning it to become a privacy-preserving transcription layer that could integrate with various AI chat services. Imagine Claude or ChatGPT gaining transcription capabilities without your audio ever leaving your machine—that's the future I'm building here as a trustworthy AI architect. For technical details on how this architecture enables these capabilities, see the [architecture documentation](https://github.com/pawn002/whisper-electron-app/blob/main/docs/architecture.md).
 
 ## Lessons Learned: Trade-offs and Design Decisions
 
@@ -67,7 +67,7 @@ I deliberately shipped without real-time transcription and speaker diarization, 
 Choosing Angular Material was pragmatic rather than perfect. While other frameworks might offer better performance or smaller bundle sizes, Angular Material provided established patterns, solid accessibility baselines, and faster development velocity when working with Claude Code. For an MVP proving a concept, "good enough and fast" beat "theoretically optimal but slower."
 
 **Open Source Transparency vs. Competitive Advantage**
-Making the entire codebase public means anyone can fork it, rebrand it, or build a commercial competitor. That's intentional. The goal isn't market dominance—it's demonstrating that privacy-preserving tools are buildable and that AI can democratize development. If someone builds on this work to create something better, that validates the mission.
+Making the entire codebase public means anyone can fork it, rebrand it, or build a commercial competitor. That's intentional. The goal isn't market dominance—it's mission alignment: demonstrating that privacy-preserving tools are buildable and that AI can democratize development. If someone builds on this work to create something better, that validates the mission.
 
 **Technical Debt from AI-Assisted Development**
 Collaborating with Claude Code accelerated development but created architectural decisions I might revisit. Some abstractions reflect AI suggestions rather than my own design preferences. The trade-off: ship in weeks instead of months, but accept that refactoring may be needed as the project matures. For an MVP, time-to-validation justified the technical debt.
