@@ -21,7 +21,7 @@ Even better: I used the app to transcribe the interview that became the basis fo
 
 ## Recognizing the Real Problem
 
-The genius here isn't in breakthrough technology—[Whisper.cpp](https://github.com/ggerganov/whisper.cpp) has been available for some time and offers exceptional transcription accuracy comparable to cloud-based solutions. The problem is accessibility. Whisper.cpp has been locked away behind command-line interfaces that intimidate most users.
+The insight here isn't about breakthrough technology—[Whisper.cpp](https://github.com/ggerganov/whisper.cpp) has been available for some time and offers exceptional transcription accuracy comparable to cloud-based solutions. The problem is accessibility. Whisper.cpp has been locked away behind command-line interfaces that intimidate most users.
 
 Folks are used to an experience where you're able to use some type of interface to upload files, transcribe things, and then do various actions like view history. Whisper.cpp does not allow you to do that as a default.
 
