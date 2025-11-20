@@ -92,18 +92,22 @@ export default async function (eleventyConfig) {
 
 	// Image optimization: https://www.11ty.dev/docs/plugins/image/#eleventy-transform
 	eleventyConfig.addPlugin(eleventyImageTransformPlugin, {
-		// Output formats for each image.
+		// Specify which file types to process
+		extensions: "html",
+
+		// Output formats for each image (auto = original format as fallback)
 		formats: ["avif", "webp", "auto"],
 
-		// widths: ["auto"],
+		// Responsive image widths (auto = original width)
+		widths: ["auto", 400, 800],
 
 		failOnError: false,
-		htmlOptions: {
-			imgAttributes: {
-				// e.g. <img loading decoding> assigned on the HTML tag will override these values.
-				loading: "lazy",
-				decoding: "async",
-			},
+
+		// Default attributes applied to all images (can be overridden per-image)
+		defaultAttributes: {
+			loading: "lazy",
+			decoding: "async",
+			sizes: "100vw",
 		},
 
 		sharpOptions: {
