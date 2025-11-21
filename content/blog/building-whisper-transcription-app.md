@@ -5,7 +5,7 @@ date: 2025-11-19
 tags: Ethical-AI, Inclusive-Design, Systems-Integration, Responsible-AI, WCAG-Compliance, Product-Architecture, Policy-Analysis, Accountability, Principal-Level
 ---
 
-{% image "img/whisper_transcription_app_hero.png", "Whisper Transcription App interface" %}
+{% image "img/whisper_transcription_app_hero.png", "Laptop displaying shield with lock icon, surrounded by audio waveforms, representing local privacy-preserving transcription" %}
 
 
 ## Executive Summary
