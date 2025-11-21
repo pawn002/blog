@@ -53,6 +53,8 @@ Personal blog built with Eleventy (11ty) focusing on accessibility advocacy, eth
   - `refactor:` for code changes that don't add features or fix bugs
   - `chore:` for maintenance tasks
   - `docs:` for documentation changes
+- Always ask before committing changes
+- Always ask before pushing changes
 
 ## Build Commands
 - `npm run start` - Development server
