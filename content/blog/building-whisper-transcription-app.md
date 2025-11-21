@@ -2,12 +2,16 @@
 title: Building a Privacy-First Transcription Tool with Claude Code
 description: How I used AI to build an offline transcription app that protects user privacy—and what it reveals about the democratization of software development.
 date: 2025-11-19
-tags: Portfolio, Ethical-AI, Inclusive-Design, Systems-Integration, Responsible-AI, WCAG-Compliance, Product-Architecture, Policy-Analysis, Accountability, Principal-Level
+tags: Ethical-AI, Inclusive-Design, Systems-Integration, Responsible-AI, WCAG-Compliance, Product-Architecture, Policy-Analysis, Accountability, Principal-Level
 ---
+
+{% image "img/whisper_transcription_app_hero.png", "Whisper Transcription App interface" %}
+
 
 ## Executive Summary
 
 I built the [Whisper Transcription App](https://github.com/pawn002/whisper-electron-app)—a free, open-source offline transcription tool—using responsible AI practices and accessibility-first product architecture to address privacy concerns in AI-powered transcription. By leveraging domain expertise in inclusive design, WCAG compliance, and product strategy, I collaborated with Claude Code to deliver a cross-platform solution that bridges the technical divide between powerful CLI tools and everyday users. This project demonstrates how trustworthy AI architecture and systems integration can democratize software development while preserving user privacy and ethical defaults.
+
 
 ## The Privacy Paradox
 
