@@ -52,4 +52,4 @@ After reviewing the test blog page, you can publish the site by running:
 You can then:
 
 - Open browser to [production Actions page](https://github.com/pawn002/blog-public/actions) to validate page is building correctly.
-- Open browser to [production blog page](https://pawn002.github.io/blog-public/) to review prior to publishing.
+- Open browser to [production blog page](https://pawn002.github.io/blog-public/) to view published blog.
