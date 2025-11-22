@@ -67,20 +67,28 @@
 
 ### All
 
-* Portfolio
-* Ethical-AI
-* Inclusive-Design
+* Accountability
 * AI-Governance
-* Responsible-AI
-* WCAG-Compliance
-* Systems-Integration
-* Product-Strategy
-* Policy-Analysis
-* Design-Architecture
+* B-Corp-Certification
 * Bias-Mitigation
-* Strategic-Foresight
-* Mission-Alignment
-* Research-Fellow
-* Unflinching-Accountability (Or shorten to Accountability)
-* Principal-Level (Indicates seniority and readiness for high-stakes problems)
+* Design-Architecture
+* Design-Strategy
+* Ecosystem-Design
+* Ethical-AI
 * Firsts
+* Foresight-Consulting
+* Inclusive-Design
+* Interdisciplinary-Research
+* Mission-Alignment
+* Moral-Leadership
+* Policy-Analysis
+* Portfolio
+* Principal-Level
+* Product-Architecture
+* Product-Strategy
+* Research-Fellow
+* Responsible-AI
+* Strategic-Foresight
+* Systems-Integration
+* VPAT-Documentation
+* WCAG-Compliance
