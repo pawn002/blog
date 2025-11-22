@@ -1,7 +1,7 @@
 ---
 title: Working With Creative Direction
 description: How listening, shared constraints, and translation between disciplines transforms the relationship between creative vision and technical reality.
-date: 2025-11-27
+date: 2025-11-22
 tags:
   - Portfolio
   - Inclusive-Design
