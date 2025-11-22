@@ -2,7 +2,11 @@
 title: Blog Organizational Disclaimer
 description: Pawn002 blog Organizational disclaimer
 date: 2025-10-21
-tags: Moral-Leadership, Policy-Analysis, Principal-Level, Ecosystem-Design
+tags:
+  - Moral-Leadership
+  - Policy-Analysis
+  - Principal-Level
+  - Ecosystem-Design
 ---
 
 ## Organizational Disclaimer

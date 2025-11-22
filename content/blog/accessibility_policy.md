@@ -2,7 +2,15 @@
 title: Blog Accessibility Policy
 description: Pawn002 blog accessibility policy
 date: 2025-10-16
-tags: Moral-Leadership, Policy-Analysis, Principal-Level, Inclusive-Design, Design-Strategy, WCAG-Compliance, Foresight-Consulting, Product-Architecture
+tags:
+  - Moral-Leadership
+  - Policy-Analysis
+  - Principal-Level
+  - Inclusive-Design
+  - Design-Strategy
+  - WCAG-Compliance
+  - Foresight-Consulting
+  - Product-Architecture
 ---
 
 _Effective Date: 16 October 2025_

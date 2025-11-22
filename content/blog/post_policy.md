@@ -2,7 +2,11 @@
 title: Blog Post Policy
 description: Pawn002 blog Ethical Guidelines for Content Creation and Updates
 date: 2025-10-15
-tags: Moral-Leadership, Policy-Analysis, Principal-Level, Ecosystem-Design
+tags:
+  - Moral-Leadership
+  - Policy-Analysis
+  - Principal-Level
+  - Ecosystem-Design
 ---
 
 _Updated: 21 October 2025_

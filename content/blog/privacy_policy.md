@@ -2,7 +2,11 @@
 title: Blog Privacy Policy
 description: Pawn002 blog privacy policy
 date: 2025-10-15
-tags: Moral-Leadership, Policy-Analysis, Principal-Level, Ecosystem-Design
+tags:
+  - Moral-Leadership
+  - Policy-Analysis
+  - Principal-Level
+  - Ecosystem-Design
 ---
 
 _Effective Date: 15 October 2025_

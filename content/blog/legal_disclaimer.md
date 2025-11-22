@@ -2,7 +2,11 @@
 title: Blog Legal Disclaimer
 description: Pawn002 blog legal disclaimer
 date: 2025-10-15
-tags: Moral-Leadership, Policy-Analysis, Principal-Level, Ecosystem-Design
+tags:
+  - Moral-Leadership
+  - Policy-Analysis
+  - Principal-Level
+  - Ecosystem-Design
 ---
 
 The content provided on this blog is for informational purposes only and does not constitute professional advice. While every effort is made to ensure the accuracy and reliability of the information presented, the author makes no warranties regarding its completeness or suitability for any particular purpose. Readers are encouraged to seek professional guidance for specific issues or decisions.
