@@ -3,19 +3,19 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>pawn002&#39;s Blog</title>
   <subtitle>Design integration, accessibility advocacy, and ethical AI strategy</subtitle>
-  <link href="https://pawn002.github.io/blog/feed/feed.xml" rel="self" />
-  <link href="https://pawn002.github.io/blog/blog-public/" />
+  <link href="https://pawn002.github.io/blog-public/feed/feed.xml" rel="self" />
+  <link href="https://pawn002.github.io/blog-public/blog-public/" />
   <updated>2025-11-22T00:00:00Z</updated>
-  <id>https://pawn002.github.io/blog/blog-public/</id>
+  <id>https://pawn002.github.io/blog-public/blog-public/</id>
   <author>
     <name>John Rioflorido</name>
   </author>
   <entry>
     <title>Working With Creative Direction</title>
-    <link href="https://pawn002.github.io/blog/blog/working_with_creative_direction/" />
+    <link href="https://pawn002.github.io/blog-public/blog/working_with_creative_direction/" />
     <updated>2025-11-22T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/working_with_creative_direction/</id>
-    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog/img/rC665HpIWs-400.avif 400w, https://pawn002.github.io/blog/img/rC665HpIWs-800.avif 800w, https://pawn002.github.io/blog/img/rC665HpIWs-1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog/img/rC665HpIWs-400.webp 400w, https://pawn002.github.io/blog/img/rC665HpIWs-800.webp 800w, https://pawn002.github.io/blog/img/rC665HpIWs-1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog/blog/working_with_creative_direction/content/img/rC665HpIWs-400.png&quot; alt=&quot;Two figures standing on opposite sides of a puzzle-piece bridge, one surrounded by creative tools like a paintbrush and palette, the other by technical symbols like code brackets and a grid, representing collaboration between creative vision and technical reality&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog/img/rC665HpIWs-400.png 400w, https://pawn002.github.io/blog/img/rC665HpIWs-800.png 800w, https://pawn002.github.io/blog/img/rC665HpIWs-1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+    <id>https://pawn002.github.io/blog-public/blog/working_with_creative_direction/</id>
+    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/rC665HpIWs-400.avif 400w, https://pawn002.github.io/blog-public/img/rC665HpIWs-800.avif 800w, https://pawn002.github.io/blog-public/img/rC665HpIWs-1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/rC665HpIWs-400.webp 400w, https://pawn002.github.io/blog-public/img/rC665HpIWs-800.webp 800w, https://pawn002.github.io/blog-public/img/rC665HpIWs-1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog-public/blog/working_with_creative_direction/content/img/rC665HpIWs-400.png&quot; alt=&quot;Two figures standing on opposite sides of a puzzle-piece bridge, one surrounded by creative tools like a paintbrush and palette, the other by technical symbols like code brackets and a grid, representing collaboration between creative vision and technical reality&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/rC665HpIWs-400.png 400w, https://pawn002.github.io/blog-public/img/rC665HpIWs-800.png 800w, https://pawn002.github.io/blog-public/img/rC665HpIWs-1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
 &lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;Working with creative direction is like all relationships: you have to listen, recognize that everyone is usually trying to do good, and find room for everyone to succeed. By approaching creative directors as partners with their own constraints and metrics rather than as sources of arbitrary demands, I&#39;ve built collaborative relationships that produce better outcomes for users, teams, and organizations. This post explores the dynamics of that relationship—from navigating disagreements to finding alignment on inclusive design and accessibility.&lt;/p&gt;
 &lt;h2 id=&quot;the-relationship-dance&quot;&gt;The Relationship Dance&lt;/h2&gt;
@@ -59,16 +59,16 @@
   </entry>
   <entry>
     <title>Building a Privacy-First Transcription Tool with Claude Code</title>
-    <link href="https://pawn002.github.io/blog/blog/building_whisper_transcription_app/" />
+    <link href="https://pawn002.github.io/blog-public/blog/building_whisper_transcription_app/" />
     <updated>2025-11-19T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/building_whisper_transcription_app/</id>
-    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog/img/gNy5pVG82g-400.avif 400w, https://pawn002.github.io/blog/img/gNy5pVG82g-800.avif 800w, https://pawn002.github.io/blog/img/gNy5pVG82g-1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog/img/gNy5pVG82g-400.webp 400w, https://pawn002.github.io/blog/img/gNy5pVG82g-800.webp 800w, https://pawn002.github.io/blog/img/gNy5pVG82g-1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog/blog/building_whisper_transcription_app/content/img/gNy5pVG82g-400.png&quot; alt=&quot;Laptop displaying shield with lock icon, surrounded by audio waveforms, representing local privacy-preserving transcription&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog/img/gNy5pVG82g-400.png 400w, https://pawn002.github.io/blog/img/gNy5pVG82g-800.png 800w, https://pawn002.github.io/blog/img/gNy5pVG82g-1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+    <id>https://pawn002.github.io/blog-public/blog/building_whisper_transcription_app/</id>
+    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/gNy5pVG82g-400.avif 400w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-800.avif 800w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/gNy5pVG82g-400.webp 400w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-800.webp 800w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog-public/blog/building_whisper_transcription_app/content/img/gNy5pVG82g-400.png&quot; alt=&quot;Laptop displaying shield with lock icon, surrounded by audio waveforms, representing local privacy-preserving transcription&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/gNy5pVG82g-400.png 400w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-800.png 800w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
 &lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;I built the &lt;a href=&quot;https://github.com/pawn002/whisper-electron-app&quot;&gt;Whisper Transcription App&lt;/a&gt;—a free, open-source offline transcription tool—using responsible AI practices and accessibility-first product architecture to address privacy concerns in AI-powered transcription. By leveraging domain expertise in inclusive design, WCAG compliance, and product strategy, I collaborated with Claude Code to deliver a cross-platform solution that bridges the technical divide between powerful CLI tools and everyday users. This project demonstrates how trustworthy AI architecture and systems integration can democratize software development while preserving user privacy and ethical defaults.&lt;/p&gt;
 &lt;h2 id=&quot;the-privacy-paradox&quot;&gt;The Privacy Paradox&lt;/h2&gt;
 &lt;p&gt;I&#39;ve been navigating an uncomfortable tension lately: wanting the convenience of AI-powered transcription while being deeply uncomfortable shipping sensitive conversations to cloud servers I don&#39;t control. Privacy is a big deal, especially with privacy concerns pertaining to the cloud and data being uploaded to it.&lt;/p&gt;
 &lt;p&gt;This tension led me to build something I&#39;m calling the &lt;a href=&quot;https://github.com/pawn002/whisper-electron-app&quot;&gt;Whisper Transcription App&lt;/a&gt;—a standalone offline transcription tool that makes OpenAI&#39;s powerful Whisper.cpp accessible to non-technical users. The ironic twist? I built it using responsible AI practices to preserve our privacy from AI.&lt;/p&gt;
-&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog/img/mnHB-acxH9-400.avif 400w, https://pawn002.github.io/blog/img/mnHB-acxH9-800.avif 800w, https://pawn002.github.io/blog/img/mnHB-acxH9-1279.avif 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog/img/mnHB-acxH9-400.webp 400w, https://pawn002.github.io/blog/img/mnHB-acxH9-800.webp 800w, https://pawn002.github.io/blog/img/mnHB-acxH9-1279.webp 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog/blog/building_whisper_transcription_app/content/img/mnHB-acxH9-400.png&quot; alt=&quot;Whisper Transcription App interface&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1279&quot; height=&quot;763&quot; srcset=&quot;https://pawn002.github.io/blog/img/mnHB-acxH9-400.png 400w, https://pawn002.github.io/blog/img/mnHB-acxH9-800.png 800w, https://pawn002.github.io/blog/img/mnHB-acxH9-1279.png 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/mnHB-acxH9-400.avif 400w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-800.avif 800w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-1279.avif 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/mnHB-acxH9-400.webp 400w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-800.webp 800w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-1279.webp 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog-public/blog/building_whisper_transcription_app/content/img/mnHB-acxH9-400.png&quot; alt=&quot;Whisper Transcription App interface&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1279&quot; height=&quot;763&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/mnHB-acxH9-400.png 400w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-800.png 800w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-1279.png 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Even better: I used the app to transcribe the interview that became the basis for this post. That delightfully meta moment underscored just how functional this MVP already is.&lt;/p&gt;
 &lt;h2 id=&quot;recognizing-the-real-problem&quot;&gt;Recognizing the Real Problem&lt;/h2&gt;
 &lt;p&gt;The insight here isn&#39;t about breakthrough technology—&lt;a href=&quot;https://github.com/ggerganov/whisper.cpp&quot;&gt;Whisper.cpp&lt;/a&gt; has been available for some time and offers exceptional transcription accuracy comparable to cloud-based solutions. The problem is accessibility. Whisper.cpp has been locked away behind command-line interfaces that intimidate most users.&lt;/p&gt;
@@ -120,12 +120,12 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>My Ethical Stance as an Ethical Systems Designer</title>
-    <link href="https://pawn002.github.io/blog/blog/my_ethical_stance/" />
+    <link href="https://pawn002.github.io/blog-public/blog/my_ethical_stance/" />
     <updated>2025-10-22T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/my_ethical_stance/</id>
+    <id>https://pawn002.github.io/blog-public/blog/my_ethical_stance/</id>
     <content type="html">&lt;p&gt;IMPORTANT: Before proceeding, please be sure to read this post&#39;s
-&lt;a href=&quot;https://pawn002.github.io/blog/blog/legal_disclaimer/&quot;&gt;Legal Disclaimer&lt;/a&gt;, and
-&lt;a href=&quot;https://pawn002.github.io/blog/blog/organizational_disclaimer&quot;&gt;Organizational Disclaimer&lt;/a&gt;.&lt;/p&gt;
+&lt;a href=&quot;https://pawn002.github.io/blog-public/blog/legal_disclaimer/&quot;&gt;Legal Disclaimer&lt;/a&gt;, and
+&lt;a href=&quot;https://pawn002.github.io/blog-public/blog/organizational_disclaimer&quot;&gt;Organizational Disclaimer&lt;/a&gt;.&lt;/p&gt;
 &lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;Leading as an Ethical Systems Designer and modeling Applied Philosophy in Design, I cultivate an ethic that focuses on outcomes while remaining humble on measuring qualitative value. This approach enables me to build and lead cross-disciplinary teams that turn accessible, ethically-grounded design and systems thinking into faster iteration, and safer products. Along the way, I provide decision infrastructure that lets decision makers quickly make defensible trade-offs while also multiplying organizational talent so organizations can retain cross-functional practitioners that ship responsibly without slowing innovation.&lt;/p&gt;
 &lt;h2 id=&quot;ethical-systems-design&quot;&gt;Ethical Systems Design&lt;/h2&gt;
@@ -189,9 +189,9 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>Blog Organizational Disclaimer</title>
-    <link href="https://pawn002.github.io/blog/blog/organizational_disclaimer/" />
+    <link href="https://pawn002.github.io/blog-public/blog/organizational_disclaimer/" />
     <updated>2025-10-21T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/organizational_disclaimer/</id>
+    <id>https://pawn002.github.io/blog-public/blog/organizational_disclaimer/</id>
     <content type="html">&lt;h2 id=&quot;organizational-disclaimer&quot;&gt;Organizational Disclaimer&lt;/h2&gt;
 &lt;h3 id=&quot;scope-of-personal-views&quot;&gt;Scope of Personal Views&lt;/h3&gt;
 &lt;p&gt;Documents linking to this post represent &lt;strong&gt;purely personal philosophical exploration&lt;/strong&gt; and do not reflect:&lt;/p&gt;
@@ -226,9 +226,9 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>Blog Accessibility Policy</title>
-    <link href="https://pawn002.github.io/blog/blog/accessibility_policy/" />
+    <link href="https://pawn002.github.io/blog-public/blog/accessibility_policy/" />
     <updated>2025-10-16T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/accessibility_policy/</id>
+    <id>https://pawn002.github.io/blog-public/blog/accessibility_policy/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Effective Date: 16 October 2025&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;At pawn002 Blog, we are committed to ensuring that our website is accessible to all users, regardless of their abilities or disabilities. We strive to create an inclusive online environment and take the following measures to enhance accessibility:&lt;/p&gt;
 &lt;h2 id=&quot;1-commitment-to-accessibility&quot;&gt;1. Commitment to Accessibility&lt;/h2&gt;
@@ -243,18 +243,18 @@ Collaborating with Claude Code accelerated development but created architectural
 &lt;h2 id=&quot;3-continuous-improvement&quot;&gt;3. Continuous Improvement&lt;/h2&gt;
 &lt;p&gt;We recognize that accessibility is an ongoing process. Therefore, we are committed to regularly reviewing and updating our site to address any gaps in meeting user needs. We strive to stay informed about the best practices and technologies that enhance web accessibility.&lt;/p&gt;
 &lt;h2 id=&quot;4-feedback-mechanism&quot;&gt;4. Feedback Mechanism&lt;/h2&gt;
-&lt;p&gt;We value your feedback and encourage users to share their experiences regarding accessibility on our site. If you encounter any barriers or have suggestions for improvement, please &lt;a href=&quot;https://pawn002.github.io/blog/about/#contact-information&quot;&gt;contact us&lt;/a&gt;. We will take all feedback seriously and work diligently to address any identified issues.&lt;/p&gt;
+&lt;p&gt;We value your feedback and encourage users to share their experiences regarding accessibility on our site. If you encounter any barriers or have suggestions for improvement, please &lt;a href=&quot;https://pawn002.github.io/blog-public/about/#contact-information&quot;&gt;contact us&lt;/a&gt;. We will take all feedback seriously and work diligently to address any identified issues.&lt;/p&gt;
 &lt;h2 id=&quot;5-contact-information&quot;&gt;5. Contact Information&lt;/h2&gt;
-&lt;p&gt;For any questions, concerns, or feedback related to accessibility, please &lt;a href=&quot;https://pawn002.github.io/blog/about/#contact-information&quot;&gt;contact us&lt;/a&gt;. We appreciate your input and are committed to making our site better for everyone.&lt;/p&gt;
+&lt;p&gt;For any questions, concerns, or feedback related to accessibility, please &lt;a href=&quot;https://pawn002.github.io/blog-public/about/#contact-information&quot;&gt;contact us&lt;/a&gt;. We appreciate your input and are committed to making our site better for everyone.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;By using our blog, you acknowledge our commitment to accessibility and agree to our policies. Thank you for being part of our community and helping us create an inclusive space for all users.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Blog Privacy Policy</title>
-    <link href="https://pawn002.github.io/blog/blog/privacy_policy/" />
+    <link href="https://pawn002.github.io/blog-public/blog/privacy_policy/" />
     <updated>2025-10-15T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/privacy_policy/</id>
+    <id>https://pawn002.github.io/blog-public/blog/privacy_policy/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Effective Date: 15 October 2025&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;This Privacy Policy outlines how we handle the information provided by readers of this blog. Your privacy is important, and we are committed to protecting any information you share with us.&lt;/p&gt;
 &lt;h2 id=&quot;1-information-we-collect&quot;&gt;1. Information We Collect&lt;/h2&gt;
@@ -270,16 +270,16 @@ Collaborating with Claude Code accelerated development but created architectural
 &lt;h2 id=&quot;6-changes-to-this-policy&quot;&gt;6. Changes to This Policy&lt;/h2&gt;
 &lt;p&gt;We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to periodically review this policy to stay informed about how we are protecting your information.&lt;/p&gt;
 &lt;h2 id=&quot;7-contact-information&quot;&gt;7. Contact Information&lt;/h2&gt;
-&lt;p&gt;If you have any questions or concerns about this Privacy Policy or your feedback, please feel free to &lt;a href=&quot;https://pawn002.github.io/blog/about/#contact-information&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any questions or concerns about this Privacy Policy or your feedback, please feel free to &lt;a href=&quot;https://pawn002.github.io/blog-public/about/#contact-information&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;By using this blog, you acknowledge that you have read and understood this Privacy Policy and agree to its terms. Thank you for being a part of our community!&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Blog Post Policy</title>
-    <link href="https://pawn002.github.io/blog/blog/post_policy/" />
+    <link href="https://pawn002.github.io/blog-public/blog/post_policy/" />
     <updated>2025-10-15T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/post_policy/</id>
+    <id>https://pawn002.github.io/blog-public/blog/post_policy/</id>
     <content type="html">&lt;p&gt;&lt;em&gt;Updated: 21 October 2025&lt;/em&gt;&lt;/p&gt;
 &lt;p&gt;In launching this blog-portfolio hybrid, I aim to create a space where thoughtful discourse and practical insights on corporate communications can flourish. The ethical stance that guides this platform, rooted in pragmatic consequentialism, informs how I curate, update, and present content. Below is the revised policy that reflects this ethical framework alongside the latest guidance:&lt;/p&gt;
 &lt;h2 id=&quot;1-outcomes-matter&quot;&gt;1. Outcomes Matter&lt;/h2&gt;
@@ -304,9 +304,9 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>Blog Legal Disclaimer</title>
-    <link href="https://pawn002.github.io/blog/blog/legal_disclaimer/" />
+    <link href="https://pawn002.github.io/blog-public/blog/legal_disclaimer/" />
     <updated>2025-10-15T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/legal_disclaimer/</id>
+    <id>https://pawn002.github.io/blog-public/blog/legal_disclaimer/</id>
     <content type="html">&lt;p&gt;The content provided on this blog is for informational purposes only and does not constitute professional advice. While every effort is made to ensure the accuracy and reliability of the information presented, the author makes no warranties regarding its completeness or suitability for any particular purpose. Readers are encouraged to seek professional guidance for specific issues or decisions.&lt;/p&gt;
 &lt;p&gt;Any opinions expressed in this blog are those of the author and do not necessarily reflect the views of affiliated organizations or institutions. The author is not responsible for any loss or damage arising from reliance on the information contained herein.&lt;/p&gt;
 &lt;p&gt;Additionally, comments and discussions generated on this blog may contain views or opinions from third parties, which do not necessarily align with the author&#39;s perspectives.&lt;/p&gt;
@@ -315,9 +315,9 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>Good Day to All!</title>
-    <link href="https://pawn002.github.io/blog/blog/firstpost/" />
+    <link href="https://pawn002.github.io/blog-public/blog/firstpost/" />
     <updated>2025-10-14T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog/blog/firstpost/</id>
+    <id>https://pawn002.github.io/blog-public/blog/firstpost/</id>
     <content type="html">&lt;p&gt;Welcome the blog!&lt;/p&gt;
 &lt;p&gt;This site is very much under construction, so this post is a shortie.&lt;/p&gt;
 &lt;p&gt;There is a lot of upheaval across diverse domains right now. I find spaces like this present a rich opportunity space.&lt;/p&gt;

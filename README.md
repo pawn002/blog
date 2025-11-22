@@ -18,7 +18,7 @@ _draft_
 
 _draft_
 
-## Developing the Site
+## Developing the Site Locally
 
 Get Started via:
 
@@ -26,18 +26,30 @@ Get Started via:
  npm run start
 ```
 
-## Testing the Site
+## Testing the Site Prior to Publishing
 
 Get Started via:
 
 ```bash
  npm run build-ghpages-test
 ```
+
+### Full Process
+
+1. Merge work from `main` into `test` branch.
+2. Run `npm run build-ghpages-test`
+3. Open browser to [repo Actions page](https://github.com/pawn002/blog/actions) to validate test page is building correctly.
+4. Open browser to [test blog page](https://pawn002.github.io/blog/) to review prior to publishing.
 
 ## Publishing the Site
 
-Get Started via:
+After reviewing the test blog page, you can publish the site by running:
 
 ```bash
- npm run build-ghpages-test
+ npm run deploy
 ```
+
+You can then:
+
+- Open browser to [production Actions page](https://github.com/pawn002/blog-public/actions) to validate page is building correctly.
+- Open browser to [production blog page](https://pawn002.github.io/blog-public/) to review prior to publishing.
