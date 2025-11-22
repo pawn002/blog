@@ -60,6 +60,7 @@ Personal blog built with Eleventy (11ty) focusing on accessibility advocacy, eth
 ## Build Commands
 - `npm run start` - Development server
 - `npm run build` - Production build
+- `npm run deploy` - Build for GitHub Pages and publish
 
 ## Owner Preferences
 - Avoid emojis unless explicitly requested
