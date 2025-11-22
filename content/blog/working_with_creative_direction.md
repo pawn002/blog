@@ -13,6 +13,8 @@ tags:
   - Accountability
 ---
 
+{% image "img/working_with_creative_direction_hero.png", "Two figures standing on opposite sides of a puzzle-piece bridge, one surrounded by creative tools like a paintbrush and palette, the other by technical symbols like code brackets and a grid, representing collaboration between creative vision and technical reality" %}
+
 ## Executive Summary
 
 Working with creative direction is like all relationships: you have to listen, recognize that everyone is usually trying to do good, and find room for everyone to succeed. By approaching creative directors as partners with their own constraints and metrics rather than as sources of arbitrary demands, I've built collaborative relationships that produce better outcomes for users, teams, and organizations. This post explores the dynamics of that relationship—from navigating disagreements to finding alignment on inclusive design and accessibility.
