@@ -7,6 +7,7 @@ tags:
   - Policy-Analysis
   - Principal-Level
   - Ecosystem-Design
+  - Accountability
 ---
 
 _Effective Date: 15 October 2025_

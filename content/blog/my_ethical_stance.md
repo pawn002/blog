@@ -3,7 +3,12 @@ title: My Ethical Stance as an Ethical Systems Designer
 description: Personal ethical stance.
 date: 2025-10-22
 tags:
+  - Portfolio
   - Moral-Leadership
+  - Ethical-AI
+  - Inclusive-Design
+  - Design-Strategy
+  - Systems-Integration
   - Foresight-Consulting
   - Product-Architecture
   - Policy-Analysis
@@ -12,9 +17,6 @@ tags:
   - Ecosystem-Design
   - Principal-Level
   - Accountability
-  - Inclusive-Design
-  - Design-Strategy
-  - Systems-Integration
 ---
 
 IMPORTANT: Before proceeding, please be sure to read this post's

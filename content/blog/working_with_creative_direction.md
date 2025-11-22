@@ -3,13 +3,14 @@ title: Working With Creative Direction
 description: How listening, shared constraints, and translation between disciplines transforms the relationship between creative vision and technical reality.
 date: 2025-11-27
 tags:
-  - Design-Strategy
-  - Design-Architecture
-  - Principal-Level
-  - Systems-Integration
-  - Accountability
+  - Portfolio
   - Inclusive-Design
+  - Design-Strategy
+  - Systems-Integration
+  - Design-Architecture
   - WCAG-Compliance
+  - Principal-Level
+  - Accountability
 ---
 
 ## Executive Summary

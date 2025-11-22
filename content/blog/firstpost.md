@@ -2,7 +2,8 @@
 title: Good Day to All!
 description: First post on new blog site.
 date: 2025-10-14
-tags: firsts
+tags:
+  - Firsts
 ---
 
 Welcome the blog!
