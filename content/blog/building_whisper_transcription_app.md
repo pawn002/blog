@@ -2,7 +2,7 @@
 title: Building a Privacy-First Transcription Tool with Claude Code
 description: How I used AI to build an offline transcription app that protects user privacy—and what it reveals about the democratization of software development.
 date: 2025-11-19
-tags: Ethical-AI, Inclusive-Design, Systems-Integration, Responsible-AI, WCAG-Compliance, Product-Architecture, Policy-Analysis, Accountability, Principal-Level
+tags: Portfolio, Ethical-AI, Inclusive-Design, Design-Strategy, Systems-Integration, Responsible-AI, WCAG-Compliance, Product-Architecture, Mission-Alignment, Accountability, Principal-Level
 ---
 
 {% image "img/whisper_transcription_app_hero.png", "Laptop displaying shield with lock icon, surrounded by audio waveforms, representing local privacy-preserving transcription" %}
