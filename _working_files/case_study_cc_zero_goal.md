@@ -1,0 +1,1 @@
+The goal of this case study is to  **show that I am aware of private industry best practices in product development**. Support this by this by visually emphasizing specific jargon and terminology specific to product development.
