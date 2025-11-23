@@ -67,3 +67,8 @@ Personal blog built with Eleventy (11ty) focusing on accessibility advocacy, eth
 - Use measured, professional language
 - Prioritize accessibility in all implementations
 - Prefer editing existing files over creating new ones
+- Always use context7 when I need code generation, setup or
+configuration steps, or library/API documentation. This means
+you should automatically use the Context7 MCP tools to resolve
+library id and get library docs without me having to
+explicitly ask.

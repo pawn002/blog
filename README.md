@@ -37,7 +37,7 @@ Get Started via:
 ### Full Process
 
 1. Merge work from `main` into `test` branch.
-2. Run `npm run build-ghpages-test`
+2. Run `npm run push-to-test`
 3. Open browser to [repo Actions page](https://github.com/pawn002/blog/actions) to validate test page is building correctly.
 4. Open browser to [test blog page](https://pawn002.github.io/blog/) to review prior to publishing.
 
