@@ -4,10 +4,13 @@ description: How applying product development fundamentals transformed a workflo
 date: 2025-11-24
 tags:
   - Portfolio
+  - Accessibility
   - Inclusive-Design
+  - Product-Development
   - Design-Strategy
   - Systems-Integration
   - WCAG-Compliance
+  - Data-Visualization
   - Product-Architecture
   - Principal-Level
   - Mission-Alignment

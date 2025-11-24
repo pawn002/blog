@@ -61,16 +61,18 @@
 
 | Tier | Tag Focus | Example Tags | Use Case
 |---|---|---|---
-| Tier 1 | Core Brand Identity | Ethical-AI, Inclusive-Design, Design-Strategy, Systems-Integration, Moral-Leadership, Portfolio | Required on all portfolio posts. Defines your unique value proposition.
-| Tier 2 | Technical & Strategic Role | AI-Governance, WCAG-Compliance, Foresight-Consulting, Product-Architecture, Policy-Analysis, Principal-Level | Signals specific expertise and seniority to recruiters/sourcers. Use 2-3 per post.
-| Tier 3 | Project Artifact / Context | Bias-Mitigation, VPAT-Documentation, Interdisciplinary-Research, B-Corp-Certification, Ecosystem-Design | Details the specific deliverable or context of the project. Use as needed.
+| Tier 1 | Core Brand Identity | Accessibility, Ethical-AI, Inclusive-Design, Design-Strategy, Systems-Integration, Moral-Leadership, Portfolio | Required on all portfolio posts. Defines your unique value proposition.
+| Tier 2 | Technical & Strategic Role | AI-Governance, WCAG-Compliance, Foresight-Consulting, Product-Architecture, Product-Development, Policy-Analysis, Principal-Level | Signals specific expertise and seniority to recruiters/sourcers. Use 2-3 per post.
+| Tier 3 | Project Artifact / Context | Bias-Mitigation, Data-Visualization, VPAT-Documentation, Interdisciplinary-Research, B-Corp-Certification, Ecosystem-Design | Details the specific deliverable or context of the project. Use as needed.
 
 ### All
 
+* Accessibility
 * Accountability
 * AI-Governance
 * B-Corp-Certification
 * Bias-Mitigation
+* Data-Visualization
 * Design-Architecture
 * Design-Strategy
 * Ecosystem-Design
@@ -85,6 +87,7 @@
 * Portfolio
 * Principal-Level
 * Product-Architecture
+* Product-Development
 * Product-Strategy
 * Research-Fellow
 * Responsible-AI
