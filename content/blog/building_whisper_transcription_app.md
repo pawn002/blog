@@ -4,8 +4,10 @@ description: How I used AI to build an offline transcription app that protects u
 date: 2025-11-19
 tags:
   - Portfolio
+  - Accessibility
   - Ethical-AI
   - Inclusive-Design
+  - Product-Development
   - Design-Strategy
   - Systems-Integration
   - Responsible-AI

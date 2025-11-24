@@ -4,6 +4,7 @@ description: Pawn002 blog accessibility policy
 date: 2025-10-16
 tags:
   - Portfolio
+  - Accessibility
   - Inclusive-Design
   - Design-Strategy
   - Systems-Integration
