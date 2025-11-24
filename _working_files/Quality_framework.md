@@ -28,6 +28,9 @@
 2. Create A Title
     * Ensure keywords relevant to audience are used.
 3. Identify and add relevant tags
+    - If new tags are introduced,
+       - update `Keywords_and_tags.md` with new tags.
+       - audit old posts for applicability of ne tags to them.
 4. Review for Proper Attribution and Permissions for Third-Party Content (See section,  "Checklist for Proper Attribution and Permissions for Third-Party Content" ).
 5. Refine with all post materials assembled—STRONG **No Placeholders!**
 
