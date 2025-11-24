@@ -2,6 +2,8 @@
 
 ## Overall
 
+To reach target audience, publish sometime between Tuesday and Thursday, in the morning.
+
 0. Have something you EMPHASIS _want_ to write about.
 1. Identify primary audience.
 2. Identify audience's needs.
@@ -42,6 +44,8 @@
 4. Revise site disclaimers if necessary and add links referencing them.
 5. Gain approvals if necessary.
     - Needed if mentioning anything from work.
+6. Create LinkedIn Announcement Post
+7. Publish Post to Blog and annouunce on LinkedIn.
 
 ---
 
