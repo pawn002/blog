@@ -18,6 +18,8 @@ tags:
   - Strategic-Foresight
 ---
 
+**Disclaimer:** Contrast Chaser was developed as part of my U.S. federal government employment. The tool, its development, and associated intellectual property are the property of the U.S. government. This case study describes my role as lead product manager, designer, developer, and user researcher on the project, documenting general product development principles and my professional contributions. No proprietary, classified, or sensitive government information is disclosed. References to adoption and usage reflect the tool's role in supporting government accessibility compliance efforts.
+
 ## Executive Summary
 
 In 2014, new accessibility requirements broke my design workflow. Rather than accepting a slower process, I applied **product development fundamentals**—**problem identification**, **market research**, **ideation**, **prototyping**, and **user validation**—to build Contrast Chaser, a tool that measures contrast and provides solutions in a single interface. This case study documents how the initial **minimum viable product (MVP)** emerged from systematic research and iteration, demonstrating that product thinking applies whether you're building for commercial markets or internal organizational needs.
