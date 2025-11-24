@@ -57,19 +57,19 @@ Several prototypes addressed different aspects of the eventual **MVP**:
 
 ### Grey Getter: User Experience Validation
 
-![Grey Getter interface showing color input fields, contrast options, and a visualization that updates based on user choices](img/figure_1_greyGetter.gif)
+{% gif "figure_1_greyGetter.gif", "Grey Getter interface showing color input fields, contrast options, and a visualization that updates based on user choices" %}
 
 Grey Getter served as a **proof of concept** validating the core user experience. It established that users could work with an interface allowing color input, contrast ratio selection, and dynamic visualization updates. This prototype answered: *Can the basic interaction model work?*
 
 ### Color Blind Color Schemes: Understanding Success Factors
 
-![Color Blind Color Schemes visualization showing hue, lightness, and saturation represented as circle size, revealing patterns in accessible color combinations](img/figure_2_colorBlindColorSchemes.gif)
+{% gif "figure_2_colorBlindColorSchemes.gif", "Color Blind Color Schemes visualization showing hue, lightness, and saturation represented as circle size, revealing patterns in accessible color combinations" %}
 
 Color Blind Color Schemes explored which aspects of color explained why certain combinations succeed for users with vision disabilities. By visualizing hue, lightness, and saturation together, this prototype generated **design insights** about accessible color relationships that would inform the algorithm's recommendations.
 
 ### Color Contrast Trends: Edge Case Identification
 
-![Color Contrast Trends scatterplot showing patterns specific to certain contrast ratios, identifying design limits the application must handle](img/figure_3_colorContrastTrends.gif)
+{% gif "figure_3_colorContrastTrends.gif", "Color Contrast Trends scatterplot showing patterns specific to certain contrast ratios, identifying design limits the application must handle" %}
 
 Color Contrast Trends researched color patterns specific to certain contrast ratios. These patterns represented **design constraints**—limits that any production tool must handle gracefully. Understanding edge cases before building prevents user frustration with unexpected failures.
 
@@ -78,7 +78,7 @@ Color Contrast Trends researched color patterns specific to certain contrast rat
 
 Combining validated learnings from each prototype, Contrast Chaser's **minimum viable product** took shape.
 
-![Contrast Chaser Zero interface combining color input, contrast measurement, and accessible color alternatives in a single application](img/figure_4_contrastChaserZero.gif)
+{% gif "figure_4_contrastChaserZero.gif", "Contrast Chaser Zero interface combining color input, contrast measurement, and accessible color alternatives in a single application" %}
 
 Contrast Chaser Zero synthesized:
 - The validated interaction model from Grey Getter
