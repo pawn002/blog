@@ -5,7 +5,7 @@
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<title>Working With Creative Direction</title>
 		<meta name="description" content="How listening, shared constraints, and translation between disciplines transforms the relationship between creative vision and technical reality.">
-		<link rel="alternate" href="/blog-public/feed/feed.xml" type="application/atom+xml" title="pawn002 Blog">
+		<link rel="alternate" href="/blog/feed/feed.xml" type="application/atom+xml" title="pawn002 Blog">
 		
 		
 		
@@ -14,10 +14,10 @@
 /* Defaults */
 :root {
 	--font-family: -apple-system, system-ui, sans-serif;
-	--font-family-monospace: Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono,
-		Lucida Console, Lucida Sans Typewriter, DejaVu Sans Mono,
-		Bitstream Vera Sans Mono, Liberation Mono, Nimbus Mono L, Courier New,
-		Courier, monospace;
+	--font-family-monospace:
+		Consolas, Menlo, Monaco, Andale Mono WT, Andale Mono, Lucida Console,
+		Lucida Sans Typewriter, DejaVu Sans Mono, Bitstream Vera Sans Mono,
+		Liberation Mono, Nimbus Mono L, Courier New, Courier, monospace;
 }
 
 /* Theme colors */
@@ -84,6 +84,11 @@ body {
 	position: absolute;
 	white-space: nowrap;
 	width: 1px;
+}
+
+/* Utility classes */
+.min-text {
+	font-size: 0.875rem;
 }
 
 /* Fluid images via https://www.zachleat.com/web/fluid-images/ */
@@ -297,6 +302,7 @@ header {
 	justify-content: center;
 	text-transform: capitalize;
 	font-style: italic;
+	font-size: 0.875rem;
 }
 .postlist-item > .post-tag {
 	align-self: center;
@@ -490,21 +496,21 @@ pre[class*="language-diff-"] {
 		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 
 		<header>
-			<a href="/blog-public/" class="home-link">pawn002 Blog</a>
+			<a href="/blog/" class="home-link">pawn002 Blog</a>
 			<nav>
 				<h2 class="visually-hidden" id="top-level-navigation-menu">Top level navigation menu</h2>
 				<ul class="nav">
 						<li class="nav-item">
-							<a href="/blog-public/">Home</a>
+							<a href="/blog/">Home</a>
 						</li>
 						<li class="nav-item">
-							<a href="/blog-public/blog/">Archive</a>
+							<a href="/blog/">Archive</a>
 						</li>
 						<li class="nav-item">
-							<a href="/blog-public/about/">About</a>
+							<a href="/blog/about/">About</a>
 						</li>
 						<li class="nav-item">
-							<a href="/blog-public/feed/feed.xml">Feed</a>
+							<a href="/blog/feed/feed.xml">Feed</a>
 						</li>
 				</ul>
 			</nav>
@@ -522,34 +528,40 @@ pre[class*="language-diff-"] {
 		<time datetime="2025-11-22">22 November 2025</time>
 	</li>
 		<li>
-			<a href="/blog-public/tags/portfolio/" class="post-tag">Portfolio</a>, 
+			<a href="/blog/tags/portfolio/" class="post-tag">Portfolio</a>, 
 		</li>
 		<li>
-			<a href="/blog-public/tags/inclusive-design/" class="post-tag">Inclusive-Design</a>, 
+			<a href="/blog/tags/accessibility/" class="post-tag">Accessibility</a>, 
 		</li>
 		<li>
-			<a href="/blog-public/tags/design-strategy/" class="post-tag">Design-Strategy</a>, 
+			<a href="/blog/tags/inclusive-design/" class="post-tag">Inclusive-Design</a>, 
 		</li>
 		<li>
-			<a href="/blog-public/tags/systems-integration/" class="post-tag">Systems-Integration</a>, 
+			<a href="/blog/tags/design-strategy/" class="post-tag">Design-Strategy</a>, 
 		</li>
 		<li>
-			<a href="/blog-public/tags/design-architecture/" class="post-tag">Design-Architecture</a>, 
+			<a href="/blog/tags/systems-integration/" class="post-tag">Systems-Integration</a>, 
 		</li>
 		<li>
-			<a href="/blog-public/tags/wcag-compliance/" class="post-tag">WCAG-Compliance</a>, 
+			<a href="/blog/tags/design-architecture/" class="post-tag">Design-Architecture</a>, 
 		</li>
 		<li>
-			<a href="/blog-public/tags/principal-level/" class="post-tag">Principal-Level</a>, 
+			<a href="/blog/tags/data-visualization/" class="post-tag">Data-Visualization</a>, 
 		</li>
 		<li>
-			<a href="/blog-public/tags/accountability/" class="post-tag">Accountability</a>
+			<a href="/blog/tags/wcag-compliance/" class="post-tag">WCAG-Compliance</a>, 
+		</li>
+		<li>
+			<a href="/blog/tags/principal-level/" class="post-tag">Principal-Level</a>, 
+		</li>
+		<li>
+			<a href="/blog/tags/accountability/" class="post-tag">Accountability</a>
 		</li>
 </ul>
 
 <hr>
 
-<p><picture><source type="image/avif" srcset="/blog-public/img/rC665HpIWs-400.avif 400w, /blog-public/img/rC665HpIWs-800.avif 800w, /blog-public/img/rC665HpIWs-1536.avif 1536w" sizes="100vw"><source type="image/webp" srcset="/blog-public/img/rC665HpIWs-400.webp 400w, /blog-public/img/rC665HpIWs-800.webp 800w, /blog-public/img/rC665HpIWs-1536.webp 1536w" sizes="100vw"><img src="content\img\rC665HpIWs-400.png" alt="Two figures standing on opposite sides of a puzzle-piece bridge, one surrounded by creative tools like a paintbrush and palette, the other by technical symbols like code brackets and a grid, representing collaboration between creative vision and technical reality" loading="lazy" decoding="async" width="1536" height="1024" srcset="/blog-public/img/rC665HpIWs-400.png 400w, /blog-public/img/rC665HpIWs-800.png 800w, /blog-public/img/rC665HpIWs-1536.png 1536w" sizes="100vw"></picture></p>
+<p><picture><source type="image/avif" srcset="/blog/img/rC665HpIWs-400.avif 400w, /blog/img/rC665HpIWs-800.avif 800w, /blog/img/rC665HpIWs-1536.avif 1536w" sizes="100vw"><source type="image/webp" srcset="/blog/img/rC665HpIWs-400.webp 400w, /blog/img/rC665HpIWs-800.webp 800w, /blog/img/rC665HpIWs-1536.webp 1536w" sizes="100vw"><img src="content\img\rC665HpIWs-400.png" alt="Two figures standing on opposite sides of a puzzle-piece bridge, one surrounded by creative tools like a paintbrush and palette, the other by technical symbols like code brackets and a grid, representing collaboration between creative vision and technical reality" loading="lazy" decoding="async" width="1536" height="1024" srcset="/blog/img/rC665HpIWs-400.png 400w, /blog/img/rC665HpIWs-800.png 800w, /blog/img/rC665HpIWs-1536.png 1536w" sizes="100vw"></picture></p>
 <h2 id="executive-summary">Executive Summary</h2>
 <p>Working with creative direction is like all relationships: you have to listen, recognize that everyone is usually trying to do good, and find room for everyone to succeed. By approaching creative directors as partners with their own constraints and metrics rather than as sources of arbitrary demands, I've built collaborative relationships that produce better outcomes for users, teams, and organizations. This post explores the dynamics of that relationship—from navigating disagreements to finding alignment on inclusive design and accessibility.</p>
 <h2 id="the-relationship-dance">The Relationship Dance</h2>
@@ -602,25 +614,25 @@ pre[class*="language-diff-"] {
 
 			<ul>
 				<li>
-					<a href="/blog-public/blog/legal_disclaimer/">Legal Disclaimer</a>
+					<a href="/blog/blog/legal_disclaimer/">Legal Disclaimer</a>
 				</li>
 				<li>
-					<a href="/blog-public/blog/organizational_disclaimer/">Organizational Disclaimer</a>
+					<a href="/blog/blog/organizational_disclaimer/">Organizational Disclaimer</a>
 				</li>
 				<li>
-					<a href="/blog-public/blog/accessibility_policy/">Accessibility Policy</a>
+					<a href="/blog/blog/accessibility_policy/">Accessibility Policy</a>
 				</li>
 				<li>
-					<a href="/blog-public/blog/post_policy/">Post Policy</a>
+					<a href="/blog/blog/post_policy/">Post Policy</a>
 				</li>
 				<li>
-					<a href="/blog-public/blog/privacy_policy/">Privacy Policy</a>
+					<a href="/blog/blog/privacy_policy/">Privacy Policy</a>
 				</li>
 
 			</ul>
 		</footer>
 
-		<!-- This page `/blog/working_with_creative_direction/` was built on 2025-11-22T14:09:32.354Z -->
-		<script type="module" src="/blog-public/dist/cC8wS6ZjFU.js"></script>
+		<!-- This page `/blog/working_with_creative_direction/` was built on 2025-11-25T03:13:37.222Z -->
+		<script type="module" src="/blog/dist/cC8wS6ZjFU.js"></script>
 	</body>
 </html>

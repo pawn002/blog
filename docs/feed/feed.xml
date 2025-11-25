@@ -3,19 +3,122 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <title>pawn002&#39;s Blog</title>
   <subtitle>Design integration, accessibility advocacy, and ethical AI strategy</subtitle>
-  <link href="https://pawn002.github.io/blog-public/feed/feed.xml" rel="self" />
-  <link href="https://pawn002.github.io/blog-public/blog-public/" />
-  <updated>2025-11-22T00:00:00Z</updated>
-  <id>https://pawn002.github.io/blog-public/blog-public/</id>
+  <link href="https://pawn002.github.io/blog/feed/feed.xml" rel="self" />
+  <link href="https://pawn002.github.io/blog/blog-public/" />
+  <updated>2025-11-25T00:00:00Z</updated>
+  <id>https://pawn002.github.io/blog/blog-public/</id>
   <author>
     <name>John Rioflorido</name>
   </author>
   <entry>
+    <title>Contrast Chaser Zero: From Personal Frustration to Product</title>
+    <link href="https://pawn002.github.io/blog/blog/contrast_chaser_zero/" />
+    <updated>2025-11-25T00:00:00Z</updated>
+    <id>https://pawn002.github.io/blog/blog/contrast_chaser_zero/</id>
+    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog/img/oDmhy9L-X--400.avif 400w, https://pawn002.github.io/blog/img/oDmhy9L-X--800.avif 800w, https://pawn002.github.io/blog/img/oDmhy9L-X--1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog/img/oDmhy9L-X--400.webp 400w, https://pawn002.github.io/blog/img/oDmhy9L-X--800.webp 800w, https://pawn002.github.io/blog/img/oDmhy9L-X--1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog/blog/contrast_chaser_zero/content/img/oDmhy9L-X--400.png&quot; alt=&quot;Data visualization showing accessibility metrics with an accessibility icon, trending graph, gauge chart, and bar chart in shades of blue and orange on a dark background&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog/img/oDmhy9L-X--400.png 400w, https://pawn002.github.io/blog/img/oDmhy9L-X--800.png 800w, https://pawn002.github.io/blog/img/oDmhy9L-X--1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;div class=&quot;min-text&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Contrast Chaser was developed as part of my U.S. federal government employment. The tool, its development, and associated intellectual property are the property of the U.S. government. This case study describes my role as lead product manager, designer, developer, and user researcher on the project, documenting general product development principles and my professional contributions. No proprietary, classified, or sensitive government information is disclosed. References to adoption and usage reflect the tool&#39;s role in supporting government accessibility compliance efforts.&lt;/p&gt;
+&lt;/div&gt;
+&lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
+&lt;p&gt;When new accessibility requirements emerged, they broke my design workflow. Rather than accepting a slower process, I applied &lt;strong&gt;product development fundamentals&lt;/strong&gt;—&lt;strong&gt;problem identification&lt;/strong&gt;, &lt;strong&gt;market research&lt;/strong&gt;, &lt;strong&gt;ideation&lt;/strong&gt;, &lt;strong&gt;prototyping&lt;/strong&gt;, and &lt;strong&gt;user validation&lt;/strong&gt;—to build Contrast Chaser, a tool that measures contrast and provides solutions in a single interface. This case study documents how systematic research and iteration produced the initial &lt;strong&gt;minimum viable product (MVP)&lt;/strong&gt;, demonstrating that product thinking applies whether you&#39;re building for commercial markets or internal organizational needs.&lt;/p&gt;
+&lt;h2 id=&quot;problem-identification&quot;&gt;Problem Identification&lt;/h2&gt;
+&lt;p&gt;Contrast Chaser was born from good intention and personal frustration.&lt;/p&gt;
+&lt;p&gt;As a senior cartographer specializing in map-based visualizations, I was considered a corporate resource on visual design. When my office began an ad hoc effort to improve accessibility, everything changed. The Web Content Accessibility Guidelines (WCAG) contrast requirements—with their objective measurements—essentially invalidated most of what was considered &amp;quot;good design&amp;quot; at the time.&lt;/p&gt;
+&lt;p&gt;The existing practice of creating a design, testing it for contrast, then adjusting colors was far too slow to meet production output needs. Traditional tools operated on a pass/fail binary: they measured contrast, told designers they had failed, then left them to figure out solutions on their own.&lt;/p&gt;
+&lt;p&gt;This experience led to a clear &lt;strong&gt;problem statement&lt;/strong&gt;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;Accessible contrast testing is too slow.&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Effective &lt;strong&gt;problem identification&lt;/strong&gt; requires more than recognizing frustration—it requires articulating a gap between current state and desired state that a product can close. The problem wasn&#39;t accessibility itself; it was the friction accessibility introduced into creative workflows.&lt;/p&gt;
+&lt;h2 id=&quot;market-research-and-user-needs&quot;&gt;Market Research and User Needs&lt;/h2&gt;
+&lt;p&gt;&lt;strong&gt;Ideating&lt;/strong&gt; about the needs of visualization producers like myself, I identified two core jobs-to-be-done:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Measure contrast&lt;/li&gt;
+&lt;li&gt;Find a new color that meets contrast requirements when the current color fails&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Conducting initial &lt;strong&gt;market research&lt;/strong&gt; through interviews with colleagues facing the same problem validated several personal needs while revealing additional &lt;strong&gt;user requirements&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Preference for familiar interface patterns&lt;/li&gt;
+&lt;li&gt;Need to understand &lt;em&gt;why&lt;/em&gt; existing colors don&#39;t pass&lt;/li&gt;
+&lt;li&gt;Desire for actionable alternatives rather than just failure messages&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;This research phase—informal but structured—distinguished assumptions from validated needs. The insight that users wanted understanding, not just compliance, shaped the product&#39;s eventual direction toward education as well as utility.&lt;/p&gt;
+&lt;h2 id=&quot;prototyping-research-through-building&quot;&gt;Prototyping: Research Through Building&lt;/h2&gt;
+&lt;p&gt;Because this was a passion project without immediate commercial goals, formal &lt;strong&gt;product roadmap planning&lt;/strong&gt; with market milestones could be abbreviated. Instead, attention focused on &lt;strong&gt;prototyping&lt;/strong&gt;—the creation of working models to test specific hypotheses.&lt;/p&gt;
+&lt;p&gt;Several prototypes addressed different aspects of the eventual &lt;strong&gt;MVP&lt;/strong&gt;:&lt;/p&gt;
+&lt;h3 id=&quot;grey-getter-user-experience-validation&quot;&gt;Grey Getter: User Experience Validation&lt;/h3&gt;
+&lt;img src=&quot;https://pawn002.github.io/blog/img/figure_1_greyGetter.gif&quot; alt=&quot;Grey Getter interface showing color input fields, contrast options, and a visualization that updates based on user choices&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+&lt;p&gt;Grey Getter served as a &lt;strong&gt;proof of concept&lt;/strong&gt; validating the core user experience. It established that users could work with an interface allowing color input, contrast ratio selection, and dynamic visualization updates. This prototype answered: &lt;em&gt;Can the basic interaction model work?&lt;/em&gt;&lt;/p&gt;
+&lt;h3 id=&quot;color-blind-color-schemes-understanding-success-factors&quot;&gt;Color Blind Color Schemes: Understanding Success Factors&lt;/h3&gt;
+&lt;img src=&quot;https://pawn002.github.io/blog/img/figure_2_colorBlindColorSchemes.gif&quot; alt=&quot;Color Blind Color Schemes visualization showing hue, lightness, and saturation represented as circle size, revealing patterns in accessible color combinations&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+&lt;p&gt;Color Blind Color Schemes explored which aspects of color explained why certain combinations succeed for users with vision disabilities. By visualizing hue, lightness, and saturation together, this prototype generated &lt;strong&gt;design insights&lt;/strong&gt; about accessible color relationships that would inform the algorithm&#39;s recommendations.&lt;/p&gt;
+&lt;h3 id=&quot;color-contrast-trends-edge-case-identification&quot;&gt;Color Contrast Trends: Edge Case Identification&lt;/h3&gt;
+&lt;img src=&quot;https://pawn002.github.io/blog/img/figure_3_colorContrastTrends.gif&quot; alt=&quot;Color Contrast Trends scatterplot showing patterns specific to certain contrast ratios, identifying design limits the application must handle&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+&lt;p&gt;Color Contrast Trends researched color patterns specific to certain contrast ratios. These patterns represented &lt;strong&gt;design constraints&lt;/strong&gt;—limits that any production tool must handle gracefully. Understanding edge cases before building prevents user frustration with unexpected failures.&lt;/p&gt;
+&lt;h2 id=&quot;mvp-development-synthesis-and-release&quot;&gt;MVP Development: Synthesis and Release&lt;/h2&gt;
+&lt;p&gt;Combining validated learnings from each prototype, Contrast Chaser&#39;s &lt;strong&gt;minimum viable product&lt;/strong&gt; took shape.&lt;/p&gt;
+&lt;img src=&quot;https://pawn002.github.io/blog/img/figure_4_contrastChaserZero.gif&quot; alt=&quot;Contrast Chaser Zero interface combining color input, contrast measurement, and accessible color alternatives in a single application&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot;&gt;
+&lt;p&gt;Contrast Chaser Zero synthesized:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The validated interaction model from Grey Getter&lt;/li&gt;
+&lt;li&gt;The color relationship research from Color Blind Color Schemes&lt;/li&gt;
+&lt;li&gt;The edge case handling from Color Contrast Trends&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The result: an application that measures contrast success while providing users intuitive alternatives to keep their designs moving forward.&lt;/p&gt;
+&lt;p&gt;This MVP was released to the workforce as a &lt;strong&gt;usable beta&lt;/strong&gt; with explicit expectations: users would test the concept and provide feedback. The goal was learning, not perfection.&lt;/p&gt;
+&lt;h2 id=&quot;user-feedback-and-iteration&quot;&gt;User Feedback and Iteration&lt;/h2&gt;
+&lt;p&gt;While all feedback was recorded for later action—representing diverse &lt;strong&gt;pain points&lt;/strong&gt; across the product—one issue dominated:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;quot;It&#39;s too hard to input colors into the application!&amp;quot;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;The solution was straightforward: an eyedropper feature similar to standard design tools. However, browser support for the EyeDropper API didn&#39;t exist yet.&lt;/p&gt;
+&lt;p&gt;This gap between &lt;strong&gt;identified solution&lt;/strong&gt; and &lt;strong&gt;technical feasibility&lt;/strong&gt; required a two-track response:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Near-term&lt;/strong&gt;: User training specific to common workflows provided relief&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Long-term&lt;/strong&gt;: Anticipatory &lt;strong&gt;ideation, research, and planning&lt;/strong&gt; prepared the eyedropper feature for rapid deployment once browser support arrived&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;When browsers finally added support, the prepared work paid off. The feature launched in hours rather than weeks. The Monday following a Friday afternoon deployment brought genuine user excitement—validation that the &lt;strong&gt;iterative development&lt;/strong&gt; approach worked.&lt;/p&gt;
+&lt;h2 id=&quot;from-mvp-to-product&quot;&gt;From MVP to Product&lt;/h2&gt;
+&lt;p&gt;Typical steps following an MVP&#39;s graduation into an official product include:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Sourcing&lt;/strong&gt;: Identifying suppliers and resources&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Costing&lt;/strong&gt;: Establishing financial models&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Commercialization&lt;/strong&gt;: Scaling and revenue generation&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;In a government context, these steps were reinterpreted:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Identifying maintenance barriers&lt;/li&gt;
+&lt;li&gt;Working within taxpayer-funded IT constraints&lt;/li&gt;
+&lt;li&gt;Generating continuing mission impact&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;The underlying &lt;strong&gt;product lifecycle&lt;/strong&gt; principles remained constant even as their application differed from private industry norms. Products require sustainable infrastructure, understood costs, and clear value propositions regardless of whether revenue or mission defines success.&lt;/p&gt;
+&lt;h2 id=&quot;outcomes-and-organizational-impact&quot;&gt;Outcomes and Organizational Impact&lt;/h2&gt;
+&lt;p&gt;Today Contrast Chaser enjoys wide usage across government, enabling visualization producers to create inclusive media efficiently. The tool has become central to communicating official accessibility policies across multiple agencies.&lt;/p&gt;
+&lt;p&gt;Beyond the product itself, I now lead an independent Contrast Chaser team that operates with management confidence in autonomous &lt;strong&gt;product management&lt;/strong&gt;. This trust emerged from demonstrated success: initial development that addressed real user needs, consistent &lt;strong&gt;user advocacy&lt;/strong&gt;, and a track record of delivering value.&lt;/p&gt;
+&lt;p&gt;The project demonstrates that &lt;strong&gt;product development methodology&lt;/strong&gt; applies beyond commercial contexts. Government, nonprofit, and internal tooling all benefit from:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Systematic problem identification&lt;/li&gt;
+&lt;li&gt;User research before building&lt;/li&gt;
+&lt;li&gt;Prototyping to validate hypotheses&lt;/li&gt;
+&lt;li&gt;MVP releases for rapid learning&lt;/li&gt;
+&lt;li&gt;Iterative improvement based on feedback&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&quot;lessons-in-product-development&quot;&gt;Lessons in Product Development&lt;/h2&gt;
+&lt;p&gt;Contrast Chaser Zero illustrates several product development principles:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Start with the problem, not the solution.&lt;/strong&gt; The initial insight wasn&#39;t &amp;quot;build a color tool&amp;quot;—it was &amp;quot;accessible contrast testing is too slow.&amp;quot; Framing the problem correctly enabled better solutions.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Validate assumptions through research.&lt;/strong&gt; Interviewing colleagues revealed needs beyond my own assumptions. Users wanted understanding, not just pass/fail verdicts.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prototype to learn, not to ship.&lt;/strong&gt; Each prototype tested specific hypotheses. Grey Getter validated interaction models. Color Blind Color Schemes generated algorithmic insights. Color Contrast Trends identified edge cases. None were intended as final products.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Release MVPs for feedback, not applause.&lt;/strong&gt; Shipping an imperfect but usable beta generated the insight that color input was the primary pain point—something not predicted during development.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Prepare for opportunities.&lt;/strong&gt; Anticipating browser support for the EyeDropper API meant the feature deployed in hours when the opportunity arrived. Strategic foresight enables tactical speed.&lt;/p&gt;
+&lt;p&gt;Whether building for commercial markets or internal organizational needs, these fundamentals produce better outcomes than intuition alone.&lt;/p&gt;
+</content>
+  </entry>
+  <entry>
     <title>Working With Creative Direction</title>
-    <link href="https://pawn002.github.io/blog-public/blog/working_with_creative_direction/" />
+    <link href="https://pawn002.github.io/blog/blog/working_with_creative_direction/" />
     <updated>2025-11-22T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/working_with_creative_direction/</id>
-    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/rC665HpIWs-400.avif 400w, https://pawn002.github.io/blog-public/img/rC665HpIWs-800.avif 800w, https://pawn002.github.io/blog-public/img/rC665HpIWs-1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/rC665HpIWs-400.webp 400w, https://pawn002.github.io/blog-public/img/rC665HpIWs-800.webp 800w, https://pawn002.github.io/blog-public/img/rC665HpIWs-1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog-public/blog/working_with_creative_direction/content/img/rC665HpIWs-400.png&quot; alt=&quot;Two figures standing on opposite sides of a puzzle-piece bridge, one surrounded by creative tools like a paintbrush and palette, the other by technical symbols like code brackets and a grid, representing collaboration between creative vision and technical reality&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/rC665HpIWs-400.png 400w, https://pawn002.github.io/blog-public/img/rC665HpIWs-800.png 800w, https://pawn002.github.io/blog-public/img/rC665HpIWs-1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+    <id>https://pawn002.github.io/blog/blog/working_with_creative_direction/</id>
+    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog/img/rC665HpIWs-400.avif 400w, https://pawn002.github.io/blog/img/rC665HpIWs-800.avif 800w, https://pawn002.github.io/blog/img/rC665HpIWs-1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog/img/rC665HpIWs-400.webp 400w, https://pawn002.github.io/blog/img/rC665HpIWs-800.webp 800w, https://pawn002.github.io/blog/img/rC665HpIWs-1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog/blog/working_with_creative_direction/content/img/rC665HpIWs-400.png&quot; alt=&quot;Two figures standing on opposite sides of a puzzle-piece bridge, one surrounded by creative tools like a paintbrush and palette, the other by technical symbols like code brackets and a grid, representing collaboration between creative vision and technical reality&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog/img/rC665HpIWs-400.png 400w, https://pawn002.github.io/blog/img/rC665HpIWs-800.png 800w, https://pawn002.github.io/blog/img/rC665HpIWs-1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
 &lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;Working with creative direction is like all relationships: you have to listen, recognize that everyone is usually trying to do good, and find room for everyone to succeed. By approaching creative directors as partners with their own constraints and metrics rather than as sources of arbitrary demands, I&#39;ve built collaborative relationships that produce better outcomes for users, teams, and organizations. This post explores the dynamics of that relationship—from navigating disagreements to finding alignment on inclusive design and accessibility.&lt;/p&gt;
 &lt;h2 id=&quot;the-relationship-dance&quot;&gt;The Relationship Dance&lt;/h2&gt;
@@ -59,16 +162,16 @@
   </entry>
   <entry>
     <title>Building a Privacy-First Transcription Tool with Claude Code</title>
-    <link href="https://pawn002.github.io/blog-public/blog/building_whisper_transcription_app/" />
+    <link href="https://pawn002.github.io/blog/blog/building_whisper_transcription_app/" />
     <updated>2025-11-19T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/building_whisper_transcription_app/</id>
-    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/gNy5pVG82g-400.avif 400w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-800.avif 800w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/gNy5pVG82g-400.webp 400w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-800.webp 800w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog-public/blog/building_whisper_transcription_app/content/img/gNy5pVG82g-400.png&quot; alt=&quot;Laptop displaying shield with lock icon, surrounded by audio waveforms, representing local privacy-preserving transcription&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/gNy5pVG82g-400.png 400w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-800.png 800w, https://pawn002.github.io/blog-public/img/gNy5pVG82g-1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+    <id>https://pawn002.github.io/blog/blog/building_whisper_transcription_app/</id>
+    <content type="html">&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog/img/gNy5pVG82g-400.avif 400w, https://pawn002.github.io/blog/img/gNy5pVG82g-800.avif 800w, https://pawn002.github.io/blog/img/gNy5pVG82g-1536.avif 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog/img/gNy5pVG82g-400.webp 400w, https://pawn002.github.io/blog/img/gNy5pVG82g-800.webp 800w, https://pawn002.github.io/blog/img/gNy5pVG82g-1536.webp 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog/blog/building_whisper_transcription_app/content/img/gNy5pVG82g-400.png&quot; alt=&quot;Laptop displaying shield with lock icon, surrounded by audio waveforms, representing local privacy-preserving transcription&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1536&quot; height=&quot;1024&quot; srcset=&quot;https://pawn002.github.io/blog/img/gNy5pVG82g-400.png 400w, https://pawn002.github.io/blog/img/gNy5pVG82g-800.png 800w, https://pawn002.github.io/blog/img/gNy5pVG82g-1536.png 1536w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
 &lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;I built the &lt;a href=&quot;https://github.com/pawn002/whisper-electron-app&quot;&gt;Whisper Transcription App&lt;/a&gt;—a free, open-source offline transcription tool—using responsible AI practices and accessibility-first product architecture to address privacy concerns in AI-powered transcription. By leveraging domain expertise in inclusive design, WCAG compliance, and product strategy, I collaborated with Claude Code to deliver a cross-platform solution that bridges the technical divide between powerful CLI tools and everyday users. This project demonstrates how trustworthy AI architecture and systems integration can democratize software development while preserving user privacy and ethical defaults.&lt;/p&gt;
 &lt;h2 id=&quot;the-privacy-paradox&quot;&gt;The Privacy Paradox&lt;/h2&gt;
 &lt;p&gt;I&#39;ve been navigating an uncomfortable tension lately: wanting the convenience of AI-powered transcription while being deeply uncomfortable shipping sensitive conversations to cloud servers I don&#39;t control. Privacy is a big deal, especially with privacy concerns pertaining to the cloud and data being uploaded to it.&lt;/p&gt;
 &lt;p&gt;This tension led me to build something I&#39;m calling the &lt;a href=&quot;https://github.com/pawn002/whisper-electron-app&quot;&gt;Whisper Transcription App&lt;/a&gt;—a standalone offline transcription tool that makes OpenAI&#39;s powerful Whisper.cpp accessible to non-technical users. The ironic twist? I built it using responsible AI practices to preserve our privacy from AI.&lt;/p&gt;
-&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/mnHB-acxH9-400.avif 400w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-800.avif 800w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-1279.avif 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/mnHB-acxH9-400.webp 400w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-800.webp 800w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-1279.webp 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog-public/blog/building_whisper_transcription_app/content/img/mnHB-acxH9-400.png&quot; alt=&quot;Whisper Transcription App interface&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1279&quot; height=&quot;763&quot; srcset=&quot;https://pawn002.github.io/blog-public/img/mnHB-acxH9-400.png 400w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-800.png 800w, https://pawn002.github.io/blog-public/img/mnHB-acxH9-1279.png 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
+&lt;p&gt;&lt;picture&gt;&lt;source type=&quot;image/avif&quot; srcset=&quot;https://pawn002.github.io/blog/img/mnHB-acxH9-400.avif 400w, https://pawn002.github.io/blog/img/mnHB-acxH9-800.avif 800w, https://pawn002.github.io/blog/img/mnHB-acxH9-1279.avif 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;source type=&quot;image/webp&quot; srcset=&quot;https://pawn002.github.io/blog/img/mnHB-acxH9-400.webp 400w, https://pawn002.github.io/blog/img/mnHB-acxH9-800.webp 800w, https://pawn002.github.io/blog/img/mnHB-acxH9-1279.webp 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;img src=&quot;https://pawn002.github.io/blog/blog/building_whisper_transcription_app/content/img/mnHB-acxH9-400.png&quot; alt=&quot;Whisper Transcription App interface&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; width=&quot;1279&quot; height=&quot;763&quot; srcset=&quot;https://pawn002.github.io/blog/img/mnHB-acxH9-400.png 400w, https://pawn002.github.io/blog/img/mnHB-acxH9-800.png 800w, https://pawn002.github.io/blog/img/mnHB-acxH9-1279.png 1279w&quot; sizes=&quot;100vw&quot;&gt;&lt;/picture&gt;&lt;/p&gt;
 &lt;p&gt;Even better: I used the app to transcribe the interview that became the basis for this post. That delightfully meta moment underscored just how functional this MVP already is.&lt;/p&gt;
 &lt;h2 id=&quot;recognizing-the-real-problem&quot;&gt;Recognizing the Real Problem&lt;/h2&gt;
 &lt;p&gt;The insight here isn&#39;t about breakthrough technology—&lt;a href=&quot;https://github.com/ggerganov/whisper.cpp&quot;&gt;Whisper.cpp&lt;/a&gt; has been available for some time and offers exceptional transcription accuracy comparable to cloud-based solutions. The problem is accessibility. Whisper.cpp has been locked away behind command-line interfaces that intimidate most users.&lt;/p&gt;
@@ -120,12 +223,14 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>My Ethical Stance as an Ethical Systems Designer</title>
-    <link href="https://pawn002.github.io/blog-public/blog/my_ethical_stance/" />
+    <link href="https://pawn002.github.io/blog/blog/my_ethical_stance/" />
     <updated>2025-10-22T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/my_ethical_stance/</id>
-    <content type="html">&lt;p&gt;IMPORTANT: Before proceeding, please be sure to read this post&#39;s
-&lt;a href=&quot;https://pawn002.github.io/blog-public/blog/legal_disclaimer/&quot;&gt;Legal Disclaimer&lt;/a&gt;, and
-&lt;a href=&quot;https://pawn002.github.io/blog-public/blog/organizational_disclaimer&quot;&gt;Organizational Disclaimer&lt;/a&gt;.&lt;/p&gt;
+    <id>https://pawn002.github.io/blog/blog/my_ethical_stance/</id>
+    <content type="html">&lt;div class=&quot;min-text&quot;&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer:&lt;/strong&gt; Before proceeding, please be sure to read this post&#39;s
+&lt;a href=&quot;https://pawn002.github.io/blog/blog/legal_disclaimer/&quot;&gt;Legal Disclaimer&lt;/a&gt;, and
+&lt;a href=&quot;https://pawn002.github.io/blog/blog/organizational_disclaimer&quot;&gt;Organizational Disclaimer&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
 &lt;h2 id=&quot;executive-summary&quot;&gt;Executive Summary&lt;/h2&gt;
 &lt;p&gt;Leading as an Ethical Systems Designer and modeling Applied Philosophy in Design, I cultivate an ethic that focuses on outcomes while remaining humble on measuring qualitative value. This approach enables me to build and lead cross-disciplinary teams that turn accessible, ethically-grounded design and systems thinking into faster iteration, and safer products. Along the way, I provide decision infrastructure that lets decision makers quickly make defensible trade-offs while also multiplying organizational talent so organizations can retain cross-functional practitioners that ship responsibly without slowing innovation.&lt;/p&gt;
 &lt;h2 id=&quot;ethical-systems-design&quot;&gt;Ethical Systems Design&lt;/h2&gt;
@@ -189,9 +294,9 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>Blog Organizational Disclaimer</title>
-    <link href="https://pawn002.github.io/blog-public/blog/organizational_disclaimer/" />
+    <link href="https://pawn002.github.io/blog/blog/organizational_disclaimer/" />
     <updated>2025-10-21T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/organizational_disclaimer/</id>
+    <id>https://pawn002.github.io/blog/blog/organizational_disclaimer/</id>
     <content type="html">&lt;h2 id=&quot;organizational-disclaimer&quot;&gt;Organizational Disclaimer&lt;/h2&gt;
 &lt;h3 id=&quot;scope-of-personal-views&quot;&gt;Scope of Personal Views&lt;/h3&gt;
 &lt;p&gt;Documents linking to this post represent &lt;strong&gt;purely personal philosophical exploration&lt;/strong&gt; and do not reflect:&lt;/p&gt;
@@ -226,10 +331,12 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>Blog Accessibility Policy</title>
-    <link href="https://pawn002.github.io/blog-public/blog/accessibility_policy/" />
+    <link href="https://pawn002.github.io/blog/blog/accessibility_policy/" />
     <updated>2025-10-16T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/accessibility_policy/</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;Effective Date: 16 October 2025&lt;/em&gt;&lt;/p&gt;
+    <id>https://pawn002.github.io/blog/blog/accessibility_policy/</id>
+    <content type="html">&lt;div class=&quot;min-text&quot;&gt;
+&lt;p&gt;&lt;em&gt;Effective Date: 16 October 2025&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;At pawn002 Blog, we are committed to ensuring that our website is accessible to all users, regardless of their abilities or disabilities. We strive to create an inclusive online environment and take the following measures to enhance accessibility:&lt;/p&gt;
 &lt;h2 id=&quot;1-commitment-to-accessibility&quot;&gt;1. Commitment to Accessibility&lt;/h2&gt;
 &lt;p&gt;We believe that everyone should have equal access to information and services provided on our blog. We have made extensive efforts to ensure that our website meets the standards set forth by the Web Content Accessibility Guidelines (WCAG) 2.1 at level AA.&lt;/p&gt;
@@ -243,19 +350,21 @@ Collaborating with Claude Code accelerated development but created architectural
 &lt;h2 id=&quot;3-continuous-improvement&quot;&gt;3. Continuous Improvement&lt;/h2&gt;
 &lt;p&gt;We recognize that accessibility is an ongoing process. Therefore, we are committed to regularly reviewing and updating our site to address any gaps in meeting user needs. We strive to stay informed about the best practices and technologies that enhance web accessibility.&lt;/p&gt;
 &lt;h2 id=&quot;4-feedback-mechanism&quot;&gt;4. Feedback Mechanism&lt;/h2&gt;
-&lt;p&gt;We value your feedback and encourage users to share their experiences regarding accessibility on our site. If you encounter any barriers or have suggestions for improvement, please &lt;a href=&quot;https://pawn002.github.io/blog-public/about/#contact-information&quot;&gt;contact us&lt;/a&gt;. We will take all feedback seriously and work diligently to address any identified issues.&lt;/p&gt;
+&lt;p&gt;We value your feedback and encourage users to share their experiences regarding accessibility on our site. If you encounter any barriers or have suggestions for improvement, please &lt;a href=&quot;https://pawn002.github.io/blog/about/#contact-information&quot;&gt;contact us&lt;/a&gt;. We will take all feedback seriously and work diligently to address any identified issues.&lt;/p&gt;
 &lt;h2 id=&quot;5-contact-information&quot;&gt;5. Contact Information&lt;/h2&gt;
-&lt;p&gt;For any questions, concerns, or feedback related to accessibility, please &lt;a href=&quot;https://pawn002.github.io/blog-public/about/#contact-information&quot;&gt;contact us&lt;/a&gt;. We appreciate your input and are committed to making our site better for everyone.&lt;/p&gt;
+&lt;p&gt;For any questions, concerns, or feedback related to accessibility, please &lt;a href=&quot;https://pawn002.github.io/blog/about/#contact-information&quot;&gt;contact us&lt;/a&gt;. We appreciate your input and are committed to making our site better for everyone.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;By using our blog, you acknowledge our commitment to accessibility and agree to our policies. Thank you for being part of our community and helping us create an inclusive space for all users.&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Blog Privacy Policy</title>
-    <link href="https://pawn002.github.io/blog-public/blog/privacy_policy/" />
+    <link href="https://pawn002.github.io/blog/blog/privacy_policy/" />
     <updated>2025-10-15T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/privacy_policy/</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;Effective Date: 15 October 2025&lt;/em&gt;&lt;/p&gt;
+    <id>https://pawn002.github.io/blog/blog/privacy_policy/</id>
+    <content type="html">&lt;div class=&quot;min-text&quot;&gt;
+&lt;p&gt;&lt;em&gt;Effective Date: 15 October 2025&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;This Privacy Policy outlines how we handle the information provided by readers of this blog. Your privacy is important, and we are committed to protecting any information you share with us.&lt;/p&gt;
 &lt;h2 id=&quot;1-information-we-collect&quot;&gt;1. Information We Collect&lt;/h2&gt;
 &lt;p&gt;The only information we collect is feedback from readers. This may include comments, suggestions, or any inquiries you choose to submit through the contact information provided. We do not collect personal data or actively track any user information.&lt;/p&gt;
@@ -270,17 +379,19 @@ Collaborating with Claude Code accelerated development but created architectural
 &lt;h2 id=&quot;6-changes-to-this-policy&quot;&gt;6. Changes to This Policy&lt;/h2&gt;
 &lt;p&gt;We may update this Privacy Policy from time to time. Any changes will be posted on this page with an updated effective date. We encourage you to periodically review this policy to stay informed about how we are protecting your information.&lt;/p&gt;
 &lt;h2 id=&quot;7-contact-information&quot;&gt;7. Contact Information&lt;/h2&gt;
-&lt;p&gt;If you have any questions or concerns about this Privacy Policy or your feedback, please feel free to &lt;a href=&quot;https://pawn002.github.io/blog-public/about/#contact-information&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;If you have any questions or concerns about this Privacy Policy or your feedback, please feel free to &lt;a href=&quot;https://pawn002.github.io/blog/about/#contact-information&quot;&gt;contact us&lt;/a&gt;.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;By using this blog, you acknowledge that you have read and understood this Privacy Policy and agree to its terms. Thank you for being a part of our community!&lt;/p&gt;
 </content>
   </entry>
   <entry>
     <title>Blog Post Policy</title>
-    <link href="https://pawn002.github.io/blog-public/blog/post_policy/" />
+    <link href="https://pawn002.github.io/blog/blog/post_policy/" />
     <updated>2025-10-15T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/post_policy/</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;Updated: 21 October 2025&lt;/em&gt;&lt;/p&gt;
+    <id>https://pawn002.github.io/blog/blog/post_policy/</id>
+    <content type="html">&lt;div class=&quot;min-text&quot;&gt;
+&lt;p&gt;&lt;em&gt;Updated: 21 October 2025&lt;/em&gt;&lt;/p&gt;
+&lt;/div&gt;
 &lt;p&gt;In launching this blog-portfolio hybrid, I aim to create a space where thoughtful discourse and practical insights on corporate communications can flourish. The ethical stance that guides this platform, rooted in pragmatic consequentialism, informs how I curate, update, and present content. Below is the revised policy that reflects this ethical framework alongside the latest guidance:&lt;/p&gt;
 &lt;h2 id=&quot;1-outcomes-matter&quot;&gt;1. Outcomes Matter&lt;/h2&gt;
 &lt;p&gt;Content on this blog will be developed and updated with a primary focus on outcomes. Each post aims not only to share information but to foster understanding, provoke thought, and stimulate constructive action. I will assess the implications of my posts, considering how they can serve the interests of my audience and the broader community.&lt;/p&gt;
@@ -304,9 +415,9 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>Blog Legal Disclaimer</title>
-    <link href="https://pawn002.github.io/blog-public/blog/legal_disclaimer/" />
+    <link href="https://pawn002.github.io/blog/blog/legal_disclaimer/" />
     <updated>2025-10-15T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/legal_disclaimer/</id>
+    <id>https://pawn002.github.io/blog/blog/legal_disclaimer/</id>
     <content type="html">&lt;p&gt;The content provided on this blog is for informational purposes only and does not constitute professional advice. While every effort is made to ensure the accuracy and reliability of the information presented, the author makes no warranties regarding its completeness or suitability for any particular purpose. Readers are encouraged to seek professional guidance for specific issues or decisions.&lt;/p&gt;
 &lt;p&gt;Any opinions expressed in this blog are those of the author and do not necessarily reflect the views of affiliated organizations or institutions. The author is not responsible for any loss or damage arising from reliance on the information contained herein.&lt;/p&gt;
 &lt;p&gt;Additionally, comments and discussions generated on this blog may contain views or opinions from third parties, which do not necessarily align with the author&#39;s perspectives.&lt;/p&gt;
@@ -315,9 +426,9 @@ Collaborating with Claude Code accelerated development but created architectural
   </entry>
   <entry>
     <title>Good Day to All!</title>
-    <link href="https://pawn002.github.io/blog-public/blog/firstpost/" />
+    <link href="https://pawn002.github.io/blog/blog/firstpost/" />
     <updated>2025-10-14T00:00:00Z</updated>
-    <id>https://pawn002.github.io/blog-public/blog/firstpost/</id>
+    <id>https://pawn002.github.io/blog/blog/firstpost/</id>
     <content type="html">&lt;p&gt;Welcome the blog!&lt;/p&gt;
 &lt;p&gt;This site is very much under construction, so this post is a shortie.&lt;/p&gt;
 &lt;p&gt;There is a lot of upheaval across diverse domains right now. I find spaces like this present a rich opportunity space.&lt;/p&gt;
