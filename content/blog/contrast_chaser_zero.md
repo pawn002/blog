@@ -29,7 +29,7 @@ tags:
 
 ## Executive Summary
 
-When new accessibility requirements emerged, they broke my design workflow. Rather than accepting a slower process, I applied **product development fundamentals**—**problem identification**, **market research**, **ideation**, **prototyping**, and **user validation**—to build Contrast Chaser, a tool that measures contrast and provides solutions in a single interface. This case study documents how the initial **minimum viable product (MVP)** emerged from systematic research and iteration, demonstrating that product thinking applies whether you're building for commercial markets or internal organizational needs.
+When new accessibility requirements emerged, they broke my design workflow. Rather than accepting a slower process, I applied **product development fundamentals**—**problem identification**, **market research**, **ideation**, **prototyping**, and **user validation**—to build Contrast Chaser, a tool that measures contrast and provides solutions in a single interface. This case study documents how systematic research and iteration produced the initial **minimum viable product (MVP)**, demonstrating that product thinking applies whether you're building for commercial markets or internal organizational needs.
 
 
 ## Problem Identification
