@@ -20,7 +20,11 @@ tags:
 
 {% image "img/contrast_chaser_zero_hero.png", "Data visualization showing accessibility metrics with an accessibility icon, trending graph, gauge chart, and bar chart in shades of blue and orange on a dark background" %}
 
+<div class="min-text">
+
 **Disclaimer:** Contrast Chaser was developed as part of my U.S. federal government employment. The tool, its development, and associated intellectual property are the property of the U.S. government. This case study describes my role as lead product manager, designer, developer, and user researcher on the project, documenting general product development principles and my professional contributions. No proprietary, classified, or sensitive government information is disclosed. References to adoption and usage reflect the tool's role in supporting government accessibility compliance efforts.
+
+</div>
 
 
 ## Executive Summary
