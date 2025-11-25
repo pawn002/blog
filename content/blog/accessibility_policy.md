@@ -4,6 +4,7 @@ description: Pawn002 blog accessibility policy
 date: 2025-10-16
 tags:
   - Portfolio
+  - Accessibility
   - Inclusive-Design
   - Design-Strategy
   - Systems-Integration
@@ -15,7 +16,11 @@ tags:
   - Accountability
 ---
 
+<div class="min-text">
+
 _Effective Date: 16 October 2025_
+
+</div>
 
 At pawn002 Blog, we are committed to ensuring that our website is accessible to all users, regardless of their abilities or disabilities. We strive to create an inclusive online environment and take the following measures to enhance accessibility:
 

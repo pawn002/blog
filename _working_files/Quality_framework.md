@@ -2,6 +2,8 @@
 
 ## Overall
 
+To reach target audience, publish sometime between Tuesday and Thursday, in the morning.
+
 0. Have something you EMPHASIS _want_ to write about.
 1. Identify primary audience.
 2. Identify audience's needs.
@@ -28,6 +30,9 @@
 2. Create A Title
     * Ensure keywords relevant to audience are used.
 3. Identify and add relevant tags
+    - If new tags are introduced,
+       - update `Keywords_and_tags.md` with new tags.
+       - audit old posts for applicability of ne tags to them.
 4. Review for Proper Attribution and Permissions for Third-Party Content (See section,  "Checklist for Proper Attribution and Permissions for Third-Party Content" ).
 5. Refine with all post materials assembled—STRONG **No Placeholders!**
 
@@ -39,6 +44,9 @@
 4. Revise site disclaimers if necessary and add links referencing them.
 5. Gain approvals if necessary.
     - Needed if mentioning anything from work.
+6. Create LinkedIn Announcement Post
+7. Create Hero Image for the post.
+8. Publish Post to Blog and announce on LinkedIn.
 
 ---
 

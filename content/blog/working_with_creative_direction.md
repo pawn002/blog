@@ -4,10 +4,12 @@ description: How listening, shared constraints, and translation between discipli
 date: 2025-11-22
 tags:
   - Portfolio
+  - Accessibility
   - Inclusive-Design
   - Design-Strategy
   - Systems-Integration
   - Design-Architecture
+  - Data-Visualization
   - WCAG-Compliance
   - Principal-Level
   - Accountability

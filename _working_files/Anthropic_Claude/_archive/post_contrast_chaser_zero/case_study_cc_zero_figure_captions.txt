@@ -1,0 +1,13 @@
+# Pictures of Applications and their Supporting Text
+
+ 
+ Figure 1. Grey Getter is a proof of concept where Contrast Chaser validated its initial user experience with a user interface that allowed the input of any color, options for contrast, and a data visualization that updates based on user choices.
+ Color Blind Color Schemes
+  
+ Figure 2. Color Blind Color Schemes was created to explore what aspect of color could be used to explain why certain colors succeed in accommodating persons with vision disability. Hue, lightness, and saturation (circle size) produce an informative visualization.
+ Color Contrast Trends
+  
+ Figure 3. Color Contrast Trends researches color patterns specific to certain contrast ratios. These patterns are important because they represent design limits that the Contrast Chaser application should handle for users, leaving them satisfied with their results.
+ Contrast Chaser Zero
+  
+ Figure 4. Contrast Chaser Zero is the minimal viable product of Contrast Chaser released to organization users in support of new accessibility guidance. Contrast Chaser Zero combines the validated user experience of Grey Getter with the research findings of Colorblind Color Schemes, and Color Contrast Trends to create an application that measures contrast success while provided users intuitive solutions to keep moving forward on their designs.
