@@ -10,7 +10,11 @@ tags:
   - Accountability
 ---
 
+<div class="min-text">
+
 _Effective Date: 15 October 2025_
+
+</div>
 
 This Privacy Policy outlines how we handle the information provided by readers of this blog. Your privacy is important, and we are committed to protecting any information you share with us.
 

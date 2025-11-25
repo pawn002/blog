@@ -10,7 +10,11 @@ tags:
   - Accountability
 ---
 
+<div class="min-text">
+
 _Updated: 21 October 2025_
+
+</div>
 
 In launching this blog-portfolio hybrid, I aim to create a space where thoughtful discourse and practical insights on corporate communications can flourish. The ethical stance that guides this platform, rooted in pragmatic consequentialism, informs how I curate, update, and present content. Below is the revised policy that reflects this ethical framework alongside the latest guidance:
 

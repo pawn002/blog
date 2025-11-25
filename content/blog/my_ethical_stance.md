@@ -19,9 +19,13 @@ tags:
   - Accountability
 ---
 
+<div class="min-text">
+
 IMPORTANT: Before proceeding, please be sure to read this post's
 [Legal Disclaimer](/blog/legal_disclaimer/), and
 [Organizational Disclaimer](/blog/organizational_disclaimer).
+
+</div>
 
 ## Executive Summary
 
