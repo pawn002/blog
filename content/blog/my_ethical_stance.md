@@ -19,6 +19,8 @@ tags:
   - Accountability
 ---
 
+{% image "img/my_ethical_stance_hero.png", "Abstract network visualization showing interconnected nodes and pathways in blues, grays, and warm accents, representing ethical decision-making frameworks and systems design" %}
+
 <div class="min-text">
 
 **Disclaimer:** Before proceeding, please be sure to read this post's
