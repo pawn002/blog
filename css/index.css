@@ -75,7 +75,7 @@ body {
 
 /* Utility classes */
 .min-text {
-	font-size: 14px;
+	font-size: 0.875rem;
 }
 
 /* Fluid images via https://www.zachleat.com/web/fluid-images/ */
@@ -289,6 +289,7 @@ header {
 	justify-content: center;
 	text-transform: capitalize;
 	font-style: italic;
+	font-size: 0.875rem;
 }
 .postlist-item > .post-tag {
 	align-self: center;

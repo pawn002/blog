@@ -1,7 +1,7 @@
 ---
 title: "Contrast Chaser Zero: From Personal Frustration to Product"
 description: How applying product development fundamentals transformed a workflow problem into an accessibility tool adopted across government agencies.
-date: 2025-11-24
+date: 2025-11-25
 tags:
   - Portfolio
   - Accessibility
