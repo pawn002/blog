@@ -45,7 +45,8 @@ To reach target audience, publish sometime between Tuesday and Thursday, in the 
 5. Gain approvals if necessary.
     - Needed if mentioning anything from work.
 6. Create LinkedIn Announcement Post
-7. Publish Post to Blog and annouunce on LinkedIn.
+7. Create Hero Image for the post.
+8. Publish Post to Blog and announce on LinkedIn.
 
 ---
 
