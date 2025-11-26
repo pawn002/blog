@@ -1,5 +1,10 @@
 # LinkedIn Announcement: Contrast Chaser Zero Case Study
 
+## Notes
+
+- Intended to use this to announce blog post to coincide with 24 November 2025 publication but risk assessment flagged possibility that doing so would signal to interested parties I was looking for another job.
+- Relook and likely update this announcement in the future if the above risk changes or is OBE.
+
 ---
 
 **New Case Study: How Product Thinking Transformed a Workflow Problem into a Government-Wide Accessibility Tool**
@@ -8,10 +13,10 @@ In 2014, accessibility requirements broke my design workflow. Instead of accepti
 
 The case study documents the journey from MVP to product, highlighting:
 
-✅ Problem identification that framed the right challenge  
-✅ User research that distinguished assumptions from validated needs  
-✅ Prototyping to test specific hypotheses (not to ship)  
-✅ Strategic foresight that enabled rapid deployment when browser APIs caught up  
+✅ Problem identification that framed the right challenge
+✅ User research that distinguished assumptions from validated needs
+✅ Prototyping to test specific hypotheses (not to ship)
+✅ Strategic foresight that enabled rapid deployment when browser APIs caught up
 ✅ Product lifecycle principles applied in a government context
 
 **Key insight:** Product thinking isn't just for commercial markets. The same fundamentals—systematic problem identification, user research, hypothesis-driven prototyping, and iterative development—apply whether you're building for revenue or mission impact.
